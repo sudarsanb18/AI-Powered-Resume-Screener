@@ -1,0 +1,1001 @@
+Resume_ID,Name,Skills,Experience (Years),Education,Certifications,Job Role,Recruiter Decision,Salary Expectation ($),Projects Count
+1,Ashley Ali,"TensorFlow, NLP, Pytorch",10,B.Sc,None,AI Researcher,Hire,104895,8
+2,Wesley Roman,"Deep Learning, Machine Learning, Python, SQL",10,MBA,Google ML,Data Scientist,Hire,113002,1
+3,Corey Sanchez,"Ethical Hacking, Cybersecurity, Linux",1,MBA,Deep Learning Specialization,Cybersecurity Analyst,Hire,71766,7
+4,Elizabeth Carney,"Python, Pytorch, TensorFlow",7,B.Tech,AWS Certified,AI Researcher,Hire,46848,0
+5,Julie Hill,"SQL, React, Java",4,PhD,None,Software Engineer,Hire,87441,9
+6,Samantha Santos,"Cybersecurity, Networking, Linux, Ethical Hacking",10,B.Tech,Google ML,Cybersecurity Analyst,Hire,47957,5
+7,Tony Smith,"Networking, Cybersecurity, Ethical Hacking",4,M.Tech,AWS Certified,Cybersecurity Analyst,Hire,66208,9
+8,Anthony Harrison,"TensorFlow, Pytorch, NLP",3,M.Tech,AWS Certified,AI Researcher,Hire,103006,7
+9,Nancy Jenkins,"Networking, Ethical Hacking",7,MBA,Deep Learning Specialization,Cybersecurity Analyst,Hire,92270,3
+10,Courtney Gibson,"Python, TensorFlow, Pytorch, NLP",0,M.Tech,AWS Certified,AI Researcher,Reject,60579,1
+11,Laura French,"SQL, Java, C++",1,PhD,Deep Learning Specialization,Software Engineer,Hire,88945,7
+12,Ralph Barrera,"Cybersecurity, Ethical Hacking, Networking",0,MBA,Google ML,Cybersecurity Analyst,Reject,62708,5
+13,David Diaz,"Cybersecurity, Networking",0,M.Tech,Deep Learning Specialization,Cybersecurity Analyst,Hire,42077,9
+14,Caitlin Myers,"SQL, C++, Java",4,B.Sc,Deep Learning Specialization,Software Engineer,Hire,50410,10
+15,Tammy Pineda,"Pytorch, NLP",0,M.Tech,Deep Learning Specialization,AI Researcher,Reject,96555,5
+16,Courtney Cook,"Cybersecurity, Networking",1,PhD,Google ML,Cybersecurity Analyst,Reject,51388,6
+17,Megan Brown,"SQL, Python",10,PhD,None,Data Scientist,Hire,115364,2
+18,Frances Davis MD,"Linux, Networking, Cybersecurity, Ethical Hacking",3,B.Tech,None,Cybersecurity Analyst,Hire,66379,6
+19,Jonathon Pineda,"SQL, Python, Deep Learning",3,MBA,None,Data Scientist,Hire,112439,10
+20,Jennifer Collins,"Machine Learning, SQL, Python",10,B.Tech,Deep Learning Specialization,Data Scientist,Hire,53167,9
+21,Nichole Welch,"SQL, Java, C++, React",5,B.Sc,None,Software Engineer,Hire,57546,4
+22,Amber Davis,"Python, TensorFlow, Pytorch, NLP",6,B.Sc,Google ML,AI Researcher,Hire,106352,10
+23,William Clark,"Machine Learning, Deep Learning, SQL",4,MBA,AWS Certified,Data Scientist,Hire,107045,8
+24,Taylor Williams,"TensorFlow, Pytorch, NLP, Python",8,MBA,Deep Learning Specialization,AI Researcher,Hire,94384,0
+25,Lori Johnson,"Pytorch, TensorFlow, NLP, Python",0,B.Tech,Deep Learning Specialization,AI Researcher,Hire,91064,10
+26,Roy Huang,"Python, NLP",7,B.Tech,Deep Learning Specialization,AI Researcher,Hire,68447,10
+27,Christopher Ayers,"Ethical Hacking, Cybersecurity",3,B.Sc,Deep Learning Specialization,Cybersecurity Analyst,Reject,76203,2
+28,Shaun Gomez,"Pytorch, NLP",1,M.Tech,None,AI Researcher,Reject,41731,5
+29,Claudia Harris,"NLP, Pytorch, Python",10,B.Tech,Google ML,AI Researcher,Hire,119307,2
+30,Steven Thomas,"SQL, Python",10,B.Tech,AWS Certified,Data Scientist,Hire,59926,4
+31,Abigail Watts,"Python, SQL",4,PhD,None,Data Scientist,Hire,84679,10
+32,Logan Mcclure,"Ethical Hacking, Networking, Linux",1,B.Sc,None,Cybersecurity Analyst,Hire,58606,10
+33,Elizabeth Serrano,"Deep Learning, Machine Learning, SQL, Python",8,M.Tech,AWS Certified,Data Scientist,Hire,51283,4
+34,Maria Glover,"TensorFlow, Python, Pytorch",9,B.Sc,Deep Learning Specialization,AI Researcher,Hire,99521,4
+35,Sandra Juarez,"Networking, Linux, Ethical Hacking",0,M.Tech,Deep Learning Specialization,Cybersecurity Analyst,Hire,47001,10
+36,Bradley Cruz,"NLP, Pytorch",7,PhD,AWS Certified,AI Researcher,Hire,92104,6
+37,Darrell Wilkinson,"Python, NLP",7,M.Tech,Google ML,AI Researcher,Hire,80936,3
+38,Jason Flores,"C++, SQL, Java",5,B.Tech,Google ML,Software Engineer,Hire,97505,7
+39,Denise Harper,"Linux, Cybersecurity",7,PhD,None,Cybersecurity Analyst,Hire,106469,0
+40,Kim Blake,"SQL, Python",1,MBA,AWS Certified,Data Scientist,Hire,52364,8
+41,Lindsey Jackson,"C++, React",10,MBA,AWS Certified,Software Engineer,Hire,101108,9
+42,Frances Salazar,"Networking, Linux",1,M.Tech,AWS Certified,Cybersecurity Analyst,Hire,51200,10
+43,Justin Ross,"NLP, TensorFlow, Python",3,M.Tech,None,AI Researcher,Hire,66403,10
+44,Denise Ramirez,"Machine Learning, Python",1,MBA,Deep Learning Specialization,Data Scientist,Hire,50397,8
+45,Tanya West,"SQL, Python, Machine Learning",4,M.Tech,AWS Certified,Data Scientist,Hire,95486,6
+46,Ryan Peters,"SQL, Java",5,B.Sc,AWS Certified,Software Engineer,Hire,72756,4
+47,Terry Burns,"SQL, Java, C++, React",4,MBA,AWS Certified,Software Engineer,Hire,50602,9
+48,Christopher Stevenson,"Python, Machine Learning",8,PhD,Google ML,Data Scientist,Hire,103477,9
+49,David Nash,"React, SQL, Java",1,MBA,Deep Learning Specialization,Software Engineer,Hire,46437,9
+50,Christopher Nicholson,"Pytorch, Python",5,B.Tech,Deep Learning Specialization,AI Researcher,Hire,89338,1
+51,Kenneth Skinner,"Python, NLP, TensorFlow, Pytorch",5,PhD,None,AI Researcher,Hire,45488,9
+52,Dalton Smith,"Ethical Hacking, Cybersecurity, Linux",9,M.Tech,None,Cybersecurity Analyst,Hire,55058,3
+53,James Bailey,"SQL, Deep Learning, Machine Learning",1,MBA,None,Data Scientist,Reject,54006,4
+54,William Hill,"Python, SQL, Machine Learning",9,B.Sc,Google ML,Data Scientist,Hire,82004,2
+55,James Jones,"Python, SQL, Machine Learning",0,B.Tech,AWS Certified,Data Scientist,Reject,112663,7
+56,Danielle Drake,"Cybersecurity, Networking, Ethical Hacking",1,B.Sc,Google ML,Cybersecurity Analyst,Reject,56827,4
+57,Rachel Wheeler,"C++, Java, SQL, React",3,B.Sc,Google ML,Software Engineer,Hire,49367,3
+58,April Flores,"Networking, Cybersecurity, Ethical Hacking, Linux",1,B.Sc,AWS Certified,Cybersecurity Analyst,Reject,86274,3
+59,Ruth Oconnell,"TensorFlow, Pytorch",2,B.Sc,None,AI Researcher,Reject,62312,1
+60,Sarah Kane,"Java, React",6,PhD,Google ML,Software Engineer,Hire,80278,4
+61,Rebecca Wagner,"Python, Pytorch",0,B.Tech,Deep Learning Specialization,AI Researcher,Hire,71804,10
+62,Laura Howell,"SQL, Deep Learning, Machine Learning, Python",8,B.Sc,None,Data Scientist,Hire,72780,9
+63,Kevin Miller,"Machine Learning, Deep Learning, Python",9,M.Tech,Google ML,Data Scientist,Hire,84443,3
+64,Joanna Foster,"C++, React, Java, SQL",9,M.Tech,None,Software Engineer,Hire,99057,8
+65,Steven Bell II,"Deep Learning, Python, Machine Learning, SQL",10,MBA,Deep Learning Specialization,Data Scientist,Hire,63516,2
+66,Cynthia Simmons,"Java, React, C++",1,PhD,None,Software Engineer,Reject,62647,3
+67,Brittney Mccormick,"Java, C++, React, SQL",8,B.Sc,None,Software Engineer,Hire,89042,1
+68,David Mitchell,"Pytorch, Python, TensorFlow, NLP",9,M.Tech,Google ML,AI Researcher,Hire,47919,4
+69,Christopher Reed,"Linux, Networking, Ethical Hacking, Cybersecurity",9,M.Tech,Google ML,Cybersecurity Analyst,Hire,81596,3
+70,Jonathan Fowler,"SQL, Python, Machine Learning, Deep Learning",1,B.Tech,AWS Certified,Data Scientist,Reject,43647,1
+71,Taylor Wright,"Pytorch, TensorFlow, NLP",8,PhD,Deep Learning Specialization,AI Researcher,Hire,50670,0
+72,Curtis Townsend,"Ethical Hacking, Networking, Linux",0,MBA,Google ML,Cybersecurity Analyst,Reject,60440,7
+73,Scott Kidd,"Python, SQL, Machine Learning, Deep Learning",0,M.Tech,Deep Learning Specialization,Data Scientist,Reject,69800,6
+74,Donald Duffy,"Java, SQL",5,MBA,AWS Certified,Software Engineer,Hire,40914,6
+75,Michael Chapman,"TensorFlow, NLP",9,B.Sc,Deep Learning Specialization,AI Researcher,Hire,111697,4
+76,Carolyn James,"Java, React, SQL, C++",4,B.Tech,Deep Learning Specialization,Software Engineer,Hire,88155,8
+77,Timothy Kirby,"Python, Machine Learning",0,M.Tech,Deep Learning Specialization,Data Scientist,Reject,61332,0
+78,Michael Vasquez,"Cybersecurity, Ethical Hacking, Linux, Networking",7,PhD,None,Cybersecurity Analyst,Hire,62406,1
+79,Brooke Charles,"TensorFlow, Python",1,MBA,None,AI Researcher,Reject,75420,6
+80,Wesley Rodriguez,"Deep Learning, Python, Machine Learning, SQL",6,B.Sc,Deep Learning Specialization,Data Scientist,Hire,82300,4
+81,Jamie Rose,"NLP, TensorFlow, Pytorch",7,MBA,None,AI Researcher,Hire,88358,4
+82,Melissa Clark,"React, C++",1,PhD,Deep Learning Specialization,Software Engineer,Hire,107085,10
+83,Ryan Moore,"C++, Java",9,M.Tech,Deep Learning Specialization,Software Engineer,Hire,51284,4
+84,Shawn Richardson,"Python, NLP, TensorFlow",10,B.Tech,None,AI Researcher,Hire,62710,2
+85,Lisa Navarro,"Java, SQL, C++",0,B.Sc,AWS Certified,Software Engineer,Reject,52290,2
+86,Renee Patterson MD,"Java, React, C++",8,M.Tech,None,Software Engineer,Hire,87272,2
+87,Heather Bauer,"SQL, Deep Learning, Python, Machine Learning",6,M.Tech,Deep Learning Specialization,Data Scientist,Hire,72143,10
+88,Derek Smith,"Python, Pytorch",7,B.Sc,None,AI Researcher,Hire,98548,7
+89,Jose Mclaughlin,"React, SQL, Java",5,PhD,Google ML,Software Engineer,Hire,102333,10
+90,Christina Johnson,"Linux, Ethical Hacking, Cybersecurity, Networking",10,M.Tech,None,Cybersecurity Analyst,Hire,60343,8
+91,David Santos,"NLP, TensorFlow",4,MBA,Google ML,AI Researcher,Hire,49331,7
+92,Melissa Salinas,"Pytorch, TensorFlow, Python",4,MBA,Google ML,AI Researcher,Hire,67536,6
+93,Cody Pace,"TensorFlow, NLP, Pytorch",5,B.Sc,AWS Certified,AI Researcher,Hire,88653,0
+94,Juan Jimenez,"NLP, Pytorch",0,B.Sc,Deep Learning Specialization,AI Researcher,Hire,87556,10
+95,Madison Dunn,"Java, SQL, C++",9,B.Tech,Google ML,Software Engineer,Hire,113365,8
+96,Stephen Watkins,"TensorFlow, Pytorch, Python, NLP",1,B.Sc,AWS Certified,AI Researcher,Reject,97235,4
+97,Dawn Tucker,"TensorFlow, NLP, Pytorch, Python",4,PhD,Deep Learning Specialization,AI Researcher,Hire,89633,2
+98,Michelle Benton,"TensorFlow, Pytorch, NLP, Python",6,B.Tech,AWS Certified,AI Researcher,Hire,109750,9
+99,Shannon Patel,"Python, Deep Learning",6,PhD,Google ML,Data Scientist,Hire,63260,8
+100,Sandra Perkins,"SQL, Java, React",6,B.Sc,Google ML,Software Engineer,Hire,67745,3
+101,Sheryl Freeman,"Linux, Cybersecurity",1,M.Tech,Google ML,Cybersecurity Analyst,Reject,85755,3
+102,Elaine Ryan,"Ethical Hacking, Cybersecurity",8,B.Tech,Deep Learning Specialization,Cybersecurity Analyst,Hire,58775,3
+103,Jonathan Hernandez,"Ethical Hacking, Networking",2,MBA,Deep Learning Specialization,Cybersecurity Analyst,Reject,49346,3
+104,Emily Williamson,"Ethical Hacking, Networking, Linux",8,PhD,None,Cybersecurity Analyst,Hire,97521,7
+105,Miguel Dunn,"Java, SQL",5,B.Tech,Google ML,Software Engineer,Hire,81801,1
+106,Natasha Orr,"Deep Learning, Machine Learning, SQL",7,B.Tech,AWS Certified,Data Scientist,Hire,118152,6
+107,David Richardson,"NLP, Python, TensorFlow",9,B.Tech,AWS Certified,AI Researcher,Hire,105695,0
+108,Michael Lewis,"Python, Deep Learning, Machine Learning",2,B.Tech,Deep Learning Specialization,Data Scientist,Reject,98024,2
+109,Michael Jones,"Python, Machine Learning, SQL",4,B.Tech,None,Data Scientist,Hire,85884,6
+110,Nicole Hunt,"Ethical Hacking, Linux, Networking, Cybersecurity",7,MBA,None,Cybersecurity Analyst,Hire,107237,3
+111,Austin Hunter,"Java, React",9,B.Tech,Google ML,Software Engineer,Hire,117897,0
+112,Richard Jones MD,"Machine Learning, SQL, Deep Learning",5,B.Tech,Deep Learning Specialization,Data Scientist,Hire,59033,4
+113,Sydney Nelson,"SQL, Python, Machine Learning, Deep Learning",3,MBA,Deep Learning Specialization,Data Scientist,Hire,102054,1
+114,Paula Mills,"Pytorch, TensorFlow",0,B.Sc,Deep Learning Specialization,AI Researcher,Reject,98413,3
+115,Meagan King,"C++, Java",2,MBA,Deep Learning Specialization,Software Engineer,Reject,85561,2
+116,Tina Smith,"NLP, TensorFlow, Pytorch",9,PhD,None,AI Researcher,Hire,88498,9
+117,Mr. David Boyle,"Networking, Cybersecurity, Linux, Ethical Hacking",10,B.Tech,None,Cybersecurity Analyst,Hire,101100,10
+118,Mariah Randolph,"React, C++, Java",5,PhD,AWS Certified,Software Engineer,Hire,72099,10
+119,Sandra Freeman,"React, Java, SQL",4,MBA,Google ML,Software Engineer,Hire,99599,9
+120,Joseph Carroll,"React, C++, Java, SQL",5,MBA,Deep Learning Specialization,Software Engineer,Hire,68881,8
+121,Cynthia Espinoza,"Java, React",6,B.Sc,Google ML,Software Engineer,Hire,62463,0
+122,Robert Carey,"Python, TensorFlow, Pytorch, NLP",4,B.Sc,AWS Certified,AI Researcher,Hire,47581,2
+123,Stephen Mcdonald,"Linux, Networking, Cybersecurity, Ethical Hacking",7,PhD,None,Cybersecurity Analyst,Hire,91604,3
+124,Haley Gonzalez,"SQL, Java",1,PhD,AWS Certified,Software Engineer,Hire,74663,9
+125,Jaime Wilson,"Java, C++, React",6,MBA,AWS Certified,Software Engineer,Hire,64025,10
+126,Taylor Cunningham,"SQL, Python",9,B.Sc,Deep Learning Specialization,Data Scientist,Hire,66133,2
+127,Sophia Bradley,"Machine Learning, Python, Deep Learning, SQL",5,M.Tech,Deep Learning Specialization,Data Scientist,Hire,95222,5
+128,Gary Hanson,"Pytorch, Python",3,MBA,Deep Learning Specialization,AI Researcher,Reject,48726,0
+129,Michael Ingram,"Linux, Networking, Ethical Hacking, Cybersecurity",8,B.Sc,AWS Certified,Cybersecurity Analyst,Hire,111242,5
+130,Shannon Alvarez,"Python, NLP, Pytorch",3,B.Sc,Deep Learning Specialization,AI Researcher,Reject,91770,0
+131,Jonathan Howard,"NLP, Python, Pytorch, TensorFlow",1,B.Sc,AWS Certified,AI Researcher,Reject,113470,4
+132,Rebecca Reynolds,"Java, C++, SQL",0,B.Sc,None,Software Engineer,Reject,103202,3
+133,Eric Gregory,"Ethical Hacking, Networking, Linux, Cybersecurity",8,B.Sc,Deep Learning Specialization,Cybersecurity Analyst,Hire,114147,4
+134,Brad Stephens,"C++, Java, React, SQL",1,PhD,None,Software Engineer,Reject,116556,0
+135,Paul Castro,"TensorFlow, NLP, Python, Pytorch",6,B.Sc,Deep Learning Specialization,AI Researcher,Hire,60828,3
+136,Elizabeth Williamson,"Networking, Cybersecurity",7,B.Sc,None,Cybersecurity Analyst,Hire,42894,0
+137,Mason Jones,"Linux, Cybersecurity, Ethical Hacking",4,M.Tech,None,Cybersecurity Analyst,Hire,114988,5
+138,Jean Clark,"Machine Learning, Python, SQL",10,M.Tech,Google ML,Data Scientist,Hire,88678,3
+139,Tyler Henderson,"Deep Learning, SQL, Python, Machine Learning",4,M.Tech,None,Data Scientist,Hire,60868,7
+140,Jamie Robertson,"Ethical Hacking, Cybersecurity, Networking, Linux",3,MBA,Google ML,Cybersecurity Analyst,Hire,93303,1
+141,Ronald Thomas,"Deep Learning, Python, SQL",3,B.Sc,Google ML,Data Scientist,Hire,64716,2
+142,Ashley Peters,"Cybersecurity, Ethical Hacking, Linux",9,B.Tech,Deep Learning Specialization,Cybersecurity Analyst,Hire,59885,2
+143,Thomas Davis,"SQL, Machine Learning, Deep Learning, Python",5,B.Tech,None,Data Scientist,Hire,89620,3
+144,David Krause,"Networking, Linux, Cybersecurity, Ethical Hacking",10,MBA,Deep Learning Specialization,Cybersecurity Analyst,Hire,83474,0
+145,Tabitha Clark,"TensorFlow, Pytorch, Python",5,B.Tech,Google ML,AI Researcher,Hire,79333,5
+146,Catherine Garcia,"TensorFlow, Pytorch, NLP",10,M.Tech,AWS Certified,AI Researcher,Hire,58221,8
+147,Dawn Brown,"SQL, Python, Deep Learning, Machine Learning",10,PhD,None,Data Scientist,Hire,119703,1
+148,Joshua Hughes,"Python, Machine Learning",8,PhD,AWS Certified,Data Scientist,Hire,95978,4
+149,Laurie Cervantes,"TensorFlow, NLP, Pytorch",6,B.Tech,Deep Learning Specialization,AI Researcher,Hire,63269,0
+150,Shannon Johnson,"Python, Machine Learning",9,B.Sc,Google ML,Data Scientist,Hire,83152,2
+151,Karen Peters,"Ethical Hacking, Networking, Linux",3,B.Tech,Google ML,Cybersecurity Analyst,Hire,118508,7
+152,Jacqueline Lee,"SQL, React, Java",6,PhD,AWS Certified,Software Engineer,Hire,99537,10
+153,Dale Williams,"Python, Machine Learning, SQL, Deep Learning",7,PhD,AWS Certified,Data Scientist,Hire,62092,2
+154,Victoria Kennedy,"Python, Deep Learning, SQL, Machine Learning",7,B.Tech,Google ML,Data Scientist,Hire,65981,0
+155,Brandon Ruiz,"Ethical Hacking, Linux, Cybersecurity",5,MBA,Deep Learning Specialization,Cybersecurity Analyst,Hire,53855,8
+156,Anthony Neal,"Cybersecurity, Ethical Hacking, Networking, Linux",6,M.Tech,None,Cybersecurity Analyst,Hire,98876,2
+157,Paul Wallace,"Linux, Ethical Hacking, Networking, Cybersecurity",6,B.Sc,AWS Certified,Cybersecurity Analyst,Hire,59082,5
+158,Renee Odonnell DDS,"Pytorch, TensorFlow, Python",2,PhD,None,AI Researcher,Reject,85955,1
+159,Christopher White,"Ethical Hacking, Linux",6,B.Sc,AWS Certified,Cybersecurity Analyst,Hire,113676,9
+160,Margaret Holmes,"Cybersecurity, Linux",2,MBA,Deep Learning Specialization,Cybersecurity Analyst,Reject,118103,1
+161,Michael Le,"SQL, Machine Learning",3,PhD,Deep Learning Specialization,Data Scientist,Hire,112466,9
+162,Patricia Scott,"SQL, Machine Learning",5,M.Tech,AWS Certified,Data Scientist,Hire,99076,8
+163,Katie Wall,"Linux, Cybersecurity",5,M.Tech,None,Cybersecurity Analyst,Hire,115234,10
+164,Steven Johnson,"TensorFlow, NLP, Python",1,M.Tech,None,AI Researcher,Reject,76442,2
+165,Rhonda Green,"Networking, Cybersecurity, Linux, Ethical Hacking",7,M.Tech,Google ML,Cybersecurity Analyst,Hire,117704,10
+166,Christopher Fletcher,"Deep Learning, SQL",2,PhD,None,Data Scientist,Reject,89120,3
+167,Joel Hansen,"Pytorch, NLP, Python",3,M.Tech,AWS Certified,AI Researcher,Hire,76100,6
+168,Katherine Cabrera,"Networking, Cybersecurity, Ethical Hacking",2,B.Sc,Google ML,Cybersecurity Analyst,Hire,63016,7
+169,Shawn Schmidt,"Java, C++, React, SQL",9,B.Sc,Deep Learning Specialization,Software Engineer,Hire,68144,2
+170,Ruth Prince,"Python, Machine Learning",7,M.Tech,None,Data Scientist,Hire,98540,0
+171,Scott Gray,"Networking, Ethical Hacking, Cybersecurity",8,MBA,None,Cybersecurity Analyst,Hire,44474,1
+172,Lisa Lawson,"Deep Learning, SQL, Python",3,B.Sc,AWS Certified,Data Scientist,Hire,50781,6
+173,Brenda Crawford,"React, SQL, C++",3,B.Tech,Google ML,Software Engineer,Hire,100722,5
+174,Phillip Shaw,"SQL, Python",9,PhD,Deep Learning Specialization,Data Scientist,Hire,69101,8
+175,Lisa Jones,"Machine Learning, Deep Learning, Python, SQL",6,MBA,None,Data Scientist,Hire,76085,4
+176,Dillon Hoffman,"SQL, Machine Learning, Python, Deep Learning",9,B.Sc,Google ML,Data Scientist,Hire,57223,2
+177,Eric Mendez,"C++, React",1,MBA,None,Software Engineer,Reject,55836,3
+178,Terry Kaufman,"SQL, Deep Learning, Python, Machine Learning",8,B.Sc,Google ML,Data Scientist,Hire,118651,5
+179,Andrea Clark,"Pytorch, TensorFlow",3,MBA,None,AI Researcher,Hire,81415,7
+180,Erin Maynard,"Networking, Cybersecurity, Ethical Hacking",8,MBA,None,Cybersecurity Analyst,Hire,65748,4
+181,Jared Gonzalez,"Java, React",6,PhD,Deep Learning Specialization,Software Engineer,Hire,54170,7
+182,Stephen Nichols,"Machine Learning, Deep Learning, SQL, Python",1,PhD,None,Data Scientist,Hire,60495,7
+183,Caleb Tucker,"Pytorch, NLP",0,B.Sc,None,AI Researcher,Reject,42924,7
+184,Caitlin Turner,"SQL, Deep Learning, Python",5,PhD,None,Data Scientist,Hire,89654,3
+185,Justin Myers Jr.,"React, Java, C++, SQL",7,M.Tech,Deep Learning Specialization,Software Engineer,Hire,89830,3
+186,Anthony Benson,"Java, C++, React, SQL",5,MBA,Deep Learning Specialization,Software Engineer,Hire,64162,7
+187,Valerie Morrison,"Pytorch, Python",0,B.Sc,Deep Learning Specialization,AI Researcher,Reject,44226,7
+188,Mary Wilson,"NLP, TensorFlow, Python",0,MBA,Deep Learning Specialization,AI Researcher,Reject,65417,3
+189,Evelyn Porter,"SQL, Python, Machine Learning, Deep Learning",3,M.Tech,Google ML,Data Scientist,Hire,65930,5
+190,Scott Salinas,"React, SQL, Java, C++",1,PhD,AWS Certified,Software Engineer,Hire,58162,5
+191,Rachel Bridges,"Linux, Cybersecurity, Ethical Hacking",8,B.Sc,Deep Learning Specialization,Cybersecurity Analyst,Hire,59707,8
+192,Lori Porter,"Linux, Ethical Hacking",1,PhD,AWS Certified,Cybersecurity Analyst,Reject,60465,3
+193,Keith Ayers,"TensorFlow, NLP, Python",3,MBA,Deep Learning Specialization,AI Researcher,Hire,80393,10
+194,Nicholas Welch,"Machine Learning, SQL, Python",10,PhD,None,Data Scientist,Hire,95170,6
+195,Jason Carter,"Pytorch, Python, TensorFlow, NLP",9,B.Sc,AWS Certified,AI Researcher,Hire,114772,5
+196,Kimberly Anderson,"Pytorch, Python",7,B.Tech,None,AI Researcher,Hire,42236,6
+197,John Mendoza,"Python, Deep Learning",8,PhD,None,Data Scientist,Hire,69641,10
+198,Audrey Haynes,"C++, SQL, Java",1,PhD,Deep Learning Specialization,Software Engineer,Hire,68682,7
+199,Zachary Harris,"Ethical Hacking, Cybersecurity, Linux",3,M.Tech,Deep Learning Specialization,Cybersecurity Analyst,Reject,113725,0
+200,Ann Silva,"Python, TensorFlow",1,B.Sc,Deep Learning Specialization,AI Researcher,Reject,89941,4
+201,Ashley Elliott,"Cybersecurity, Ethical Hacking, Linux, Networking",8,MBA,Google ML,Cybersecurity Analyst,Hire,102247,8
+202,Thomas Hill,"TensorFlow, NLP",6,PhD,Google ML,AI Researcher,Hire,87988,1
+203,Danny Torres,"Ethical Hacking, Cybersecurity, Networking",8,B.Tech,None,Cybersecurity Analyst,Hire,66329,0
+204,Tiffany Koch,"NLP, Python, TensorFlow",1,PhD,Deep Learning Specialization,AI Researcher,Hire,42249,7
+205,Rachael Williams,"Java, C++",9,MBA,Google ML,Software Engineer,Hire,82341,3
+206,Timothy Caldwell,"NLP, Pytorch, Python, TensorFlow",10,B.Sc,None,AI Researcher,Hire,43594,4
+207,Jenny Weaver,"Ethical Hacking, Linux, Cybersecurity, Networking",7,MBA,None,Cybersecurity Analyst,Hire,116460,10
+208,Shawn Carson,"C++, React",2,B.Sc,AWS Certified,Software Engineer,Hire,96027,5
+209,Derrick Mendoza,"Cybersecurity, Ethical Hacking, Networking, Linux",1,M.Tech,Deep Learning Specialization,Cybersecurity Analyst,Hire,102390,6
+210,Thomas Thompson,"Python, NLP, TensorFlow",2,M.Tech,Google ML,AI Researcher,Hire,90388,4
+211,Cindy Crosby,"Machine Learning, Python, Deep Learning",3,B.Tech,AWS Certified,Data Scientist,Hire,99842,4
+212,Denise Davenport,"Networking, Linux, Ethical Hacking",7,B.Tech,Google ML,Cybersecurity Analyst,Hire,96689,3
+213,Wyatt Anderson,"C++, SQL",2,MBA,Google ML,Software Engineer,Reject,94346,1
+214,Peter Patterson,"SQL, Java",1,B.Tech,Google ML,Software Engineer,Hire,45989,7
+215,Nicholas Brown,"TensorFlow, Python, NLP",3,B.Tech,None,AI Researcher,Reject,41769,3
+216,Gloria Miller,"Linux, Ethical Hacking, Cybersecurity, Networking",8,M.Tech,AWS Certified,Cybersecurity Analyst,Hire,45438,3
+217,Tammy Phillips,"SQL, Deep Learning, Python, Machine Learning",7,B.Sc,None,Data Scientist,Hire,82958,10
+218,William Murphy,"TensorFlow, Python, NLP, Pytorch",8,MBA,AWS Certified,AI Researcher,Hire,70446,8
+219,John James,"Linux, Networking, Cybersecurity, Ethical Hacking",1,B.Sc,None,Cybersecurity Analyst,Hire,40222,10
+220,Christina Sanchez,"Pytorch, TensorFlow, Python, NLP",10,PhD,Google ML,AI Researcher,Hire,99512,2
+221,Keith Ward,"Cybersecurity, Linux",9,PhD,None,Cybersecurity Analyst,Hire,77138,0
+222,Mark Skinner,"Python, NLP",1,M.Tech,Google ML,AI Researcher,Reject,98317,1
+223,James Myers,"Python, TensorFlow, Pytorch, NLP",6,B.Sc,None,AI Researcher,Hire,78872,4
+224,Jon Poole,"Java, SQL",8,M.Tech,Deep Learning Specialization,Software Engineer,Hire,96786,4
+225,John Weiss,"Linux, Ethical Hacking, Cybersecurity",4,PhD,AWS Certified,Cybersecurity Analyst,Hire,96836,1
+226,Sean Livingston,"Cybersecurity, Networking",1,B.Tech,Google ML,Cybersecurity Analyst,Reject,94563,6
+227,Jacob Long,"Python, Deep Learning, Machine Learning",2,B.Tech,Deep Learning Specialization,Data Scientist,Hire,106472,4
+228,Sarah Christensen,"Linux, Networking, Ethical Hacking",7,B.Sc,None,Cybersecurity Analyst,Hire,79874,6
+229,Scott Young,"Python, Pytorch",3,PhD,Deep Learning Specialization,AI Researcher,Hire,43097,8
+230,Christopher Dominguez,"Cybersecurity, Networking, Ethical Hacking",2,M.Tech,AWS Certified,Cybersecurity Analyst,Hire,102929,10
+231,Thomas Curtis,"Python, NLP, Pytorch",1,MBA,Google ML,AI Researcher,Reject,113921,1
+232,Anita Vega,"React, C++, Java, SQL",0,M.Tech,AWS Certified,Software Engineer,Hire,80517,8
+233,Jennifer Lane,"Deep Learning, Python",3,MBA,AWS Certified,Data Scientist,Hire,110523,4
+234,Tonya Ellison,"SQL, Java, C++, React",9,M.Tech,None,Software Engineer,Hire,76224,5
+235,Robert Guerrero,"Cybersecurity, Linux, Networking",0,MBA,Deep Learning Specialization,Cybersecurity Analyst,Reject,49774,7
+236,Elizabeth Graham,"React, SQL",7,B.Tech,AWS Certified,Software Engineer,Hire,75572,0
+237,Nancy Brown,"Ethical Hacking, Linux, Cybersecurity, Networking",1,B.Tech,Deep Learning Specialization,Cybersecurity Analyst,Hire,80647,8
+238,April Lewis,"Python, Deep Learning",5,B.Tech,None,Data Scientist,Hire,67218,3
+239,Tiffany Austin,"Python, TensorFlow, NLP, Pytorch",8,PhD,AWS Certified,AI Researcher,Hire,104942,5
+240,Sheila Gonzalez,"Deep Learning, SQL",1,M.Tech,Google ML,Data Scientist,Reject,64383,4
+241,Barbara Bernard,"Linux, Ethical Hacking",10,MBA,Deep Learning Specialization,Cybersecurity Analyst,Hire,50784,0
+242,Mario Savage,"Deep Learning, Machine Learning, Python, SQL",5,B.Tech,AWS Certified,Data Scientist,Hire,78601,7
+243,Katherine Chase,"C++, SQL, React",8,B.Tech,Google ML,Software Engineer,Hire,99288,4
+244,Rodney Diaz,"Linux, Networking",0,B.Tech,AWS Certified,Cybersecurity Analyst,Reject,64620,6
+245,Michael Phelps,"NLP, Pytorch",2,B.Sc,Deep Learning Specialization,AI Researcher,Hire,113947,8
+246,Christine Reyes,"Deep Learning, Python, SQL",2,B.Sc,Deep Learning Specialization,Data Scientist,Hire,119054,8
+247,Daniel Alvarado,"Cybersecurity, Ethical Hacking, Linux",7,MBA,AWS Certified,Cybersecurity Analyst,Hire,63157,4
+248,Ashley Moore,"Deep Learning, Machine Learning, SQL",5,B.Sc,Google ML,Data Scientist,Hire,41593,4
+249,Caitlin Shaw,"SQL, Java, React, C++",4,MBA,Deep Learning Specialization,Software Engineer,Hire,101488,5
+250,James Gibson,"React, Java",2,MBA,AWS Certified,Software Engineer,Hire,113130,8
+251,Timothy Smith,"Python, NLP, TensorFlow, Pytorch",9,B.Tech,AWS Certified,AI Researcher,Hire,95912,10
+252,Erin Maynard,"Pytorch, NLP, TensorFlow, Python",7,M.Tech,AWS Certified,AI Researcher,Hire,51478,9
+253,Sherry Mcgrath,"TensorFlow, Python, Pytorch",8,PhD,None,AI Researcher,Hire,75976,1
+254,Juan Velez,"SQL, Machine Learning",2,B.Tech,None,Data Scientist,Reject,116999,2
+255,Sara Collins,"React, C++, SQL, Java",7,MBA,Deep Learning Specialization,Software Engineer,Hire,90437,5
+256,Kathleen Foster,"NLP, Pytorch, TensorFlow",6,B.Tech,Deep Learning Specialization,AI Researcher,Hire,72164,4
+257,Paul Williams,"Java, C++, React",9,M.Tech,None,Software Engineer,Hire,54990,1
+258,Jasmine Cole,"Cybersecurity, Linux",8,B.Sc,Google ML,Cybersecurity Analyst,Hire,90950,10
+259,Bryan Wright,"SQL, Machine Learning, Deep Learning",0,B.Tech,Deep Learning Specialization,Data Scientist,Reject,113435,2
+260,Dr. Samantha Hill MD,"TensorFlow, Pytorch, Python",8,B.Tech,AWS Certified,AI Researcher,Hire,78090,6
+261,Steven Hull,"Python, Pytorch",7,B.Sc,Google ML,AI Researcher,Hire,71756,2
+262,Eduardo Wilson,"Ethical Hacking, Linux, Networking",1,PhD,AWS Certified,Cybersecurity Analyst,Hire,59652,10
+263,Bryan Scott,"TensorFlow, NLP",10,B.Sc,AWS Certified,AI Researcher,Hire,86663,2
+264,Jessica Burnett,"Python, TensorFlow",0,M.Tech,AWS Certified,AI Researcher,Reject,77225,1
+265,Kim Brown,"NLP, Python, Pytorch",1,MBA,AWS Certified,AI Researcher,Reject,97459,0
+266,Maria Green MD,"NLP, TensorFlow",7,MBA,Google ML,AI Researcher,Hire,99118,1
+267,Gregory Rogers,"Networking, Ethical Hacking",0,M.Tech,AWS Certified,Cybersecurity Analyst,Reject,74792,5
+268,Nathaniel Yoder,"SQL, React",10,B.Tech,Deep Learning Specialization,Software Engineer,Hire,89543,5
+269,Paul Lozano,"SQL, Machine Learning, Deep Learning, Python",8,M.Tech,Google ML,Data Scientist,Hire,109019,8
+270,Jerry Allen,"Cybersecurity, Linux, Networking, Ethical Hacking",9,PhD,Deep Learning Specialization,Cybersecurity Analyst,Hire,94447,4
+271,Amy Poole,"Machine Learning, SQL, Python",0,PhD,Google ML,Data Scientist,Reject,43642,7
+272,Laura Garcia,"Ethical Hacking, Cybersecurity",0,B.Sc,None,Cybersecurity Analyst,Reject,47079,8
+273,Cassandra Ford,"Linux, Cybersecurity",2,PhD,AWS Certified,Cybersecurity Analyst,Reject,48427,1
+274,Ricky Morris,"NLP, Pytorch, Python",8,MBA,None,AI Researcher,Hire,75898,3
+275,Jon Hall,"Networking, Linux",3,M.Tech,Deep Learning Specialization,Cybersecurity Analyst,Hire,102962,7
+276,Amber Brown,"NLP, TensorFlow",7,PhD,Deep Learning Specialization,AI Researcher,Hire,48195,0
+277,Dr. Antonio Martinez,"Deep Learning, Machine Learning, Python",3,MBA,AWS Certified,Data Scientist,Reject,71310,1
+278,Dwayne Taylor,"React, C++, SQL, Java",4,B.Tech,Deep Learning Specialization,Software Engineer,Hire,90345,7
+279,Trevor Freeman,"Cybersecurity, Networking, Ethical Hacking",6,M.Tech,AWS Certified,Cybersecurity Analyst,Hire,53165,8
+280,Kristen Santana,"Deep Learning, Machine Learning",0,PhD,Google ML,Data Scientist,Reject,73914,1
+281,Rachael Hayes,"C++, SQL, React",10,M.Tech,Deep Learning Specialization,Software Engineer,Hire,48829,5
+282,Gary Gonzalez,"Python, TensorFlow, Pytorch, NLP",9,MBA,Google ML,AI Researcher,Hire,99238,1
+283,Mrs. Ashley Stanley,"Pytorch, Python, NLP, TensorFlow",0,M.Tech,Deep Learning Specialization,AI Researcher,Hire,67037,9
+284,Sonia Mendoza,"Python, TensorFlow",3,B.Sc,None,AI Researcher,Reject,82959,3
+285,Tara Williams,"Python, Deep Learning",7,B.Tech,None,Data Scientist,Hire,104891,2
+286,Joanna Little,"Ethical Hacking, Cybersecurity, Networking",2,PhD,Deep Learning Specialization,Cybersecurity Analyst,Hire,117219,5
+287,Emily Sanchez,"C++, React, SQL, Java",2,MBA,None,Software Engineer,Reject,96229,1
+288,Rebecca Lewis,"Python, SQL, Deep Learning",10,B.Tech,None,Data Scientist,Hire,92689,8
+289,Jonathan Andrews,"Python, Deep Learning, SQL, Machine Learning",2,M.Tech,None,Data Scientist,Hire,82012,7
+290,Martin Dean,"Ethical Hacking, Networking",6,MBA,Deep Learning Specialization,Cybersecurity Analyst,Hire,61633,4
+291,Olivia Montgomery,"TensorFlow, Python",2,PhD,Deep Learning Specialization,AI Researcher,Hire,73596,9
+292,Amanda Watson,"Cybersecurity, Networking, Linux",2,B.Sc,AWS Certified,Cybersecurity Analyst,Reject,104195,3
+293,Katelyn Hopkins,"Machine Learning, Python, SQL",6,B.Tech,None,Data Scientist,Hire,50393,5
+294,Jeremy Shaw,"Java, C++, React, SQL",4,B.Sc,None,Software Engineer,Hire,98181,8
+295,Nathan Williams,"Pytorch, Python, NLP, TensorFlow",9,MBA,Deep Learning Specialization,AI Researcher,Hire,117784,3
+296,Jacqueline Frederick,"Deep Learning, Python, Machine Learning, SQL",2,B.Sc,None,Data Scientist,Hire,84282,6
+297,Robert Cook,"Networking, Linux, Ethical Hacking, Cybersecurity",2,B.Sc,Deep Learning Specialization,Cybersecurity Analyst,Reject,108144,2
+298,Jerome Schmitt,"Networking, Cybersecurity, Linux, Ethical Hacking",8,MBA,Google ML,Cybersecurity Analyst,Hire,104087,4
+299,Scott Coleman,"SQL, Deep Learning",6,B.Tech,Google ML,Data Scientist,Hire,80534,6
+300,Robin Mcgrath,"Python, Pytorch, TensorFlow",1,M.Tech,None,AI Researcher,Hire,88349,10
+301,Kristen Maynard,"Linux, Ethical Hacking",10,M.Tech,Google ML,Cybersecurity Analyst,Hire,71601,9
+302,Denise Collins,"React, Java, SQL, C++",5,PhD,Deep Learning Specialization,Software Engineer,Hire,94954,10
+303,Amber Dalton,"NLP, Python, TensorFlow, Pytorch",2,PhD,Deep Learning Specialization,AI Researcher,Hire,72948,10
+304,Carlos Goodwin,"Python, NLP",8,B.Sc,Google ML,AI Researcher,Hire,89808,10
+305,Tina Howard,"SQL, Python, Machine Learning",6,B.Sc,AWS Certified,Data Scientist,Hire,52824,9
+306,Nathaniel Terry,"React, SQL, C++",1,MBA,None,Software Engineer,Hire,88441,10
+307,Jessica Campbell,"Machine Learning, SQL, Python",4,B.Sc,Google ML,Data Scientist,Hire,114573,8
+308,Andrew Shaw,"Python, SQL",1,MBA,Deep Learning Specialization,Data Scientist,Hire,112556,7
+309,Stephen Lopez,"Deep Learning, SQL",6,B.Tech,AWS Certified,Data Scientist,Hire,106433,0
+310,Megan Cox,"SQL, Java",3,B.Tech,None,Software Engineer,Hire,63531,8
+311,Richard Kelly,"Cybersecurity, Ethical Hacking, Networking",0,B.Tech,None,Cybersecurity Analyst,Reject,82635,7
+312,Benjamin Rivera,"SQL, Machine Learning, Python, Deep Learning",6,B.Sc,Google ML,Data Scientist,Hire,99502,8
+313,Laura Stewart,"Deep Learning, SQL, Python, Machine Learning",1,PhD,Deep Learning Specialization,Data Scientist,Reject,52288,1
+314,Ronald Luna,"C++, SQL",5,M.Tech,Google ML,Software Engineer,Hire,106464,5
+315,Robert Thompson,"Networking, Ethical Hacking, Linux, Cybersecurity",10,M.Tech,Google ML,Cybersecurity Analyst,Hire,97006,5
+316,Joseph Rojas,"Cybersecurity, Ethical Hacking, Linux",1,MBA,AWS Certified,Cybersecurity Analyst,Hire,78344,10
+317,Richard Padilla,"Cybersecurity, Networking, Ethical Hacking, Linux",2,B.Sc,None,Cybersecurity Analyst,Reject,59121,4
+318,Heather Savage,"Machine Learning, Python, Deep Learning",2,B.Tech,Deep Learning Specialization,Data Scientist,Hire,55376,7
+319,Elizabeth Chavez,"TensorFlow, Python, NLP",9,M.Tech,AWS Certified,AI Researcher,Hire,101293,0
+320,Scott Richardson,"SQL, Java, C++, React",0,B.Tech,AWS Certified,Software Engineer,Hire,53699,8
+321,Jerome Sampson,"Deep Learning, SQL",5,MBA,Google ML,Data Scientist,Hire,114879,8
+322,Jennifer Padilla,"Networking, Linux, Cybersecurity, Ethical Hacking",5,M.Tech,Deep Learning Specialization,Cybersecurity Analyst,Hire,102150,3
+323,Malik Burns,"Python, Deep Learning",5,B.Tech,None,Data Scientist,Hire,73559,10
+324,Brandon Monroe,"Ethical Hacking, Linux",8,B.Tech,Deep Learning Specialization,Cybersecurity Analyst,Hire,93214,2
+325,Heather Mcdonald,"C++, Java, SQL",3,PhD,Deep Learning Specialization,Software Engineer,Hire,98746,4
+326,William Bryant,"Deep Learning, Python",3,MBA,AWS Certified,Data Scientist,Hire,44012,10
+327,Abigail Brock,"Machine Learning, Python, Deep Learning",9,B.Tech,None,Data Scientist,Hire,93707,0
+328,Maria Perez PhD,"Ethical Hacking, Linux, Cybersecurity",4,MBA,None,Cybersecurity Analyst,Hire,52722,9
+329,William Casey,"SQL, React, C++",7,B.Tech,AWS Certified,Software Engineer,Hire,65733,0
+330,Bryan Clayton,"Networking, Cybersecurity, Ethical Hacking, Linux",0,PhD,AWS Certified,Cybersecurity Analyst,Reject,62201,5
+331,James Murphy,"SQL, Java",7,M.Tech,AWS Certified,Software Engineer,Hire,115275,5
+332,Brett Mills,"Python, Deep Learning, SQL, Machine Learning",1,B.Tech,AWS Certified,Data Scientist,Hire,61616,9
+333,Kimberly Thompson,"TensorFlow, Pytorch",5,PhD,AWS Certified,AI Researcher,Hire,79405,4
+334,William Walker,"Linux, Cybersecurity, Networking",2,B.Sc,AWS Certified,Cybersecurity Analyst,Reject,54759,1
+335,Natalie King,"Ethical Hacking, Linux",7,M.Tech,Deep Learning Specialization,Cybersecurity Analyst,Hire,91922,0
+336,Sergio Scott,"Java, SQL, React, C++",10,B.Sc,Deep Learning Specialization,Software Engineer,Hire,69145,4
+337,Carlos Park,"Pytorch, TensorFlow",2,MBA,AWS Certified,AI Researcher,Hire,65012,6
+338,Stacie Pitts,"C++, SQL",7,MBA,AWS Certified,Software Engineer,Hire,45278,8
+339,Jose Kirk,"Networking, Linux, Ethical Hacking, Cybersecurity",4,B.Tech,None,Cybersecurity Analyst,Reject,75555,0
+340,John Alvarez,"SQL, Machine Learning",0,B.Tech,AWS Certified,Data Scientist,Reject,90362,8
+341,Austin Saunders,"C++, Java",0,B.Sc,None,Software Engineer,Reject,89148,8
+342,Shannon Page,"Deep Learning, SQL, Python, Machine Learning",8,MBA,AWS Certified,Data Scientist,Hire,100345,0
+343,Dylan Keller,"Python, NLP, TensorFlow",7,B.Sc,Google ML,AI Researcher,Hire,62487,8
+344,Stephanie Mosley,"Cybersecurity, Networking",3,MBA,None,Cybersecurity Analyst,Hire,55213,9
+345,Whitney Thompson,"Deep Learning, Machine Learning, SQL, Python",1,M.Tech,Deep Learning Specialization,Data Scientist,Hire,79991,10
+346,Isabel Williams,"Cybersecurity, Ethical Hacking, Networking, Linux",6,MBA,Google ML,Cybersecurity Analyst,Hire,89696,10
+347,Jessica Ruiz,"Ethical Hacking, Cybersecurity, Linux, Networking",0,MBA,Google ML,Cybersecurity Analyst,Hire,102527,7
+348,Jamie Arnold,"SQL, Java, React",3,B.Sc,None,Software Engineer,Hire,96280,9
+349,Ashley Gardner,"Machine Learning, Python",1,MBA,AWS Certified,Data Scientist,Reject,108606,3
+350,Shannon Young,"Ethical Hacking, Linux",2,M.Tech,None,Cybersecurity Analyst,Hire,115687,7
+351,George Hansen,"Networking, Ethical Hacking",1,M.Tech,AWS Certified,Cybersecurity Analyst,Reject,65217,6
+352,Tanya Lloyd,"React, C++, SQL, Java",0,M.Tech,None,Software Engineer,Reject,94099,0
+353,Morgan Mueller,"Python, Deep Learning, SQL, Machine Learning",9,PhD,None,Data Scientist,Hire,45043,5
+354,Anthony Wheeler,"Python, Machine Learning, Deep Learning",0,B.Tech,Google ML,Data Scientist,Reject,116661,3
+355,Isabella Long,"Pytorch, TensorFlow",8,B.Sc,Deep Learning Specialization,AI Researcher,Hire,73142,9
+356,Vincent Daniel,"Python, Pytorch, TensorFlow, NLP",7,B.Sc,Google ML,AI Researcher,Hire,75507,7
+357,Mrs. Debbie Jackson,"Python, NLP",0,PhD,Deep Learning Specialization,AI Researcher,Hire,81970,10
+358,Mr. Juan Barron DDS,"SQL, C++, React, Java",4,MBA,Google ML,Software Engineer,Hire,59448,9
+359,Debra Franco,"SQL, Deep Learning, Machine Learning",6,M.Tech,None,Data Scientist,Hire,58016,2
+360,Nicole Randolph,"Networking, Ethical Hacking",0,B.Tech,None,Cybersecurity Analyst,Reject,97659,4
+361,James Cline,"Linux, Ethical Hacking",2,M.Tech,AWS Certified,Cybersecurity Analyst,Reject,76342,4
+362,April West,"Networking, Linux, Cybersecurity, Ethical Hacking",7,B.Tech,AWS Certified,Cybersecurity Analyst,Hire,103102,2
+363,Stephanie Edwards,"SQL, Java",3,B.Sc,None,Software Engineer,Hire,41272,6
+364,Paula Harrison,"TensorFlow, Python, NLP, Pytorch",1,B.Sc,AWS Certified,AI Researcher,Reject,40186,1
+365,Breanna Moore,"React, Java, SQL",4,M.Tech,Deep Learning Specialization,Software Engineer,Hire,82848,5
+366,Tristan Burgess PhD,"TensorFlow, Pytorch",5,M.Tech,Deep Learning Specialization,AI Researcher,Hire,82093,9
+367,Christina Perez,"Linux, Cybersecurity, Ethical Hacking",2,B.Sc,None,Cybersecurity Analyst,Reject,60533,2
+368,Mike Miller,"Python, NLP",5,B.Tech,None,AI Researcher,Hire,55494,8
+369,Shelly Mann,"Deep Learning, Python",6,MBA,Deep Learning Specialization,Data Scientist,Hire,53984,7
+370,Jose Young,"Linux, Networking, Ethical Hacking",10,B.Tech,None,Cybersecurity Analyst,Hire,91447,5
+371,Timothy Johnson,"Java, C++, React",7,PhD,None,Software Engineer,Hire,100195,6
+372,Donald Lawson,"React, Java, SQL",3,B.Sc,None,Software Engineer,Reject,118891,0
+373,Crystal Parker,"NLP, Pytorch, Python",4,PhD,Google ML,AI Researcher,Hire,45733,9
+374,Amanda Thomas,"Java, SQL, C++, React",10,M.Tech,Google ML,Software Engineer,Hire,51113,0
+375,Thomas Lee,"Cybersecurity, Linux, Ethical Hacking",3,B.Sc,AWS Certified,Cybersecurity Analyst,Hire,75300,5
+376,Jennifer Love,"Ethical Hacking, Networking, Linux",1,M.Tech,Google ML,Cybersecurity Analyst,Reject,57375,2
+377,Breanna Barrett,"C++, React",8,B.Sc,Deep Learning Specialization,Software Engineer,Hire,71077,7
+378,Jacob White,"Python, Machine Learning, Deep Learning",0,B.Sc,Deep Learning Specialization,Data Scientist,Hire,97987,10
+379,Zachary Lynch,"SQL, Python",8,B.Sc,Deep Learning Specialization,Data Scientist,Hire,118157,10
+380,Mr. Keith Smith,"SQL, Python, Deep Learning, Machine Learning",2,B.Tech,Google ML,Data Scientist,Hire,69741,10
+381,James Allen,"Pytorch, NLP, Python, TensorFlow",10,M.Tech,AWS Certified,AI Researcher,Hire,77860,1
+382,Diana Lewis,"NLP, TensorFlow, Pytorch",3,M.Tech,AWS Certified,AI Researcher,Hire,112201,6
+383,David Wilkerson,"Pytorch, TensorFlow, NLP",8,B.Tech,AWS Certified,AI Researcher,Hire,80736,2
+384,Melissa Wheeler,"TensorFlow, Python, NLP, Pytorch",4,B.Tech,None,AI Researcher,Hire,94202,4
+385,Elijah Mcmillan,"React, C++",6,B.Tech,Google ML,Software Engineer,Hire,114890,7
+386,Wendy Ferguson,"Linux, Ethical Hacking, Networking",10,B.Sc,Deep Learning Specialization,Cybersecurity Analyst,Hire,108070,1
+387,Xavier Wheeler,"NLP, Pytorch, TensorFlow",1,B.Tech,AWS Certified,AI Researcher,Reject,60718,1
+388,Linda Hardy,"C++, SQL, Java",10,M.Tech,Deep Learning Specialization,Software Engineer,Hire,95050,2
+389,Pamela Dillon MD,"Pytorch, NLP, Python",10,MBA,Google ML,AI Researcher,Hire,85192,2
+390,Miguel Robbins,"Deep Learning, Python, SQL, Machine Learning",1,PhD,AWS Certified,Data Scientist,Reject,84131,3
+391,Jordan Matthews,"NLP, TensorFlow",8,MBA,None,AI Researcher,Hire,64722,1
+392,Tyler Fischer,"NLP, Python",9,M.Tech,None,AI Researcher,Hire,107875,5
+393,Jack Hall,"C++, React, Java",9,B.Tech,Deep Learning Specialization,Software Engineer,Hire,76157,8
+394,Victor Braun,"Python, Machine Learning, SQL",6,PhD,None,Data Scientist,Hire,46741,1
+395,Donald Morales,"Python, Pytorch, TensorFlow, NLP",8,B.Tech,AWS Certified,AI Researcher,Hire,65345,8
+396,Elizabeth Hernandez,"Java, SQL",3,B.Tech,Deep Learning Specialization,Software Engineer,Reject,89716,1
+397,Leah Cain,"Machine Learning, Deep Learning, SQL, Python",3,M.Tech,AWS Certified,Data Scientist,Reject,93900,0
+398,Allison Hoffman,"Ethical Hacking, Linux",1,PhD,None,Cybersecurity Analyst,Hire,95656,9
+399,Danielle Davis,"Machine Learning, Python, Deep Learning",1,MBA,Deep Learning Specialization,Data Scientist,Reject,79404,4
+400,Jacob Peterson,"Pytorch, NLP, Python, TensorFlow",5,B.Tech,None,AI Researcher,Hire,56104,6
+401,Christopher Chandler DVM,"Cybersecurity, Linux, Ethical Hacking",5,MBA,AWS Certified,Cybersecurity Analyst,Hire,59821,5
+402,Sarah Gomez,"Cybersecurity, Networking, Linux, Ethical Hacking",6,B.Sc,None,Cybersecurity Analyst,Hire,102518,7
+403,Carlos Dawson,"Networking, Linux, Ethical Hacking, Cybersecurity",10,B.Tech,Google ML,Cybersecurity Analyst,Hire,61659,10
+404,Gregg Barber,"Python, Machine Learning, Deep Learning",0,M.Tech,Deep Learning Specialization,Data Scientist,Reject,114745,6
+405,Kyle Contreras,"Cybersecurity, Linux, Ethical Hacking",3,MBA,None,Cybersecurity Analyst,Hire,103993,9
+406,Jon Craig,"React, SQL, Java",1,B.Sc,Google ML,Software Engineer,Hire,105524,9
+407,Tiffany Rogers,"NLP, Pytorch, TensorFlow",8,MBA,Deep Learning Specialization,AI Researcher,Hire,102267,6
+408,Gregory Beard,"TensorFlow, NLP, Python",4,MBA,AWS Certified,AI Researcher,Hire,72225,6
+409,Timothy Fitzgerald,"Networking, Linux",3,MBA,None,Cybersecurity Analyst,Hire,97811,6
+410,Raymond Perez,"Python, SQL",0,PhD,Deep Learning Specialization,Data Scientist,Hire,118756,9
+411,Jeffrey Cannon,"Deep Learning, SQL",5,MBA,Google ML,Data Scientist,Hire,101471,0
+412,Kent Davis,"Cybersecurity, Networking",4,PhD,None,Cybersecurity Analyst,Reject,87051,0
+413,Alex Valdez,"C++, Java, React",4,MBA,Google ML,Software Engineer,Hire,53412,0
+414,Jonathan Lewis,"Pytorch, TensorFlow, NLP",1,MBA,AWS Certified,AI Researcher,Hire,64694,9
+415,James Reyes,"React, C++",5,B.Sc,Deep Learning Specialization,Software Engineer,Hire,85526,1
+416,Kathryn Carter,"Java, React, C++, SQL",7,PhD,Deep Learning Specialization,Software Engineer,Hire,55916,6
+417,Amanda Burke,"Deep Learning, SQL, Machine Learning, Python",1,MBA,AWS Certified,Data Scientist,Reject,86355,4
+418,James Bell,"Deep Learning, Machine Learning, Python, SQL",5,B.Tech,None,Data Scientist,Hire,112155,0
+419,Valerie Clark,"SQL, Machine Learning, Python, Deep Learning",2,MBA,AWS Certified,Data Scientist,Hire,58438,6
+420,Joseph Richards,"Cybersecurity, Ethical Hacking, Linux",1,B.Tech,Google ML,Cybersecurity Analyst,Hire,65313,7
+421,Megan Smith,"Linux, Networking, Cybersecurity",6,MBA,None,Cybersecurity Analyst,Hire,59504,1
+422,Stephen Mason,"Python, Deep Learning",2,B.Tech,AWS Certified,Data Scientist,Hire,83979,5
+423,Zachary Cohen,"NLP, TensorFlow, Pytorch, Python",8,B.Sc,Deep Learning Specialization,AI Researcher,Hire,108667,0
+424,Cristian Hernandez,"C++, React, Java, SQL",7,B.Tech,AWS Certified,Software Engineer,Hire,59061,6
+425,David Smith,"SQL, C++",3,B.Tech,Deep Learning Specialization,Software Engineer,Hire,41891,4
+426,Molly Brewer,"Python, NLP, Pytorch, TensorFlow",4,B.Sc,None,AI Researcher,Hire,61931,8
+427,Robert Cameron,"Cybersecurity, Linux, Ethical Hacking",7,MBA,Deep Learning Specialization,Cybersecurity Analyst,Hire,81422,10
+428,George Mills,"React, Java",5,PhD,None,Software Engineer,Hire,74711,8
+429,Anna Morrison,"Networking, Linux",5,M.Tech,Google ML,Cybersecurity Analyst,Hire,61038,9
+430,Karen Wright,"SQL, Python, Machine Learning",10,PhD,AWS Certified,Data Scientist,Hire,55716,0
+431,John Owens,"Pytorch, NLP",4,B.Tech,Google ML,AI Researcher,Hire,52692,10
+432,Kent Ward,"Cybersecurity, Ethical Hacking",2,B.Tech,Deep Learning Specialization,Cybersecurity Analyst,Hire,100524,5
+433,Michael Randall,"SQL, C++, React",7,M.Tech,AWS Certified,Software Engineer,Hire,49907,4
+434,Kathryn Shea,"SQL, React, C++, Java",3,PhD,Deep Learning Specialization,Software Engineer,Hire,71138,8
+435,Brenda Haney,"Networking, Cybersecurity, Linux, Ethical Hacking",5,B.Sc,None,Cybersecurity Analyst,Hire,93770,7
+436,Maria Manning,"Python, Deep Learning, SQL",7,M.Tech,Deep Learning Specialization,Data Scientist,Hire,104836,5
+437,David Collins,"Java, React, C++",0,PhD,Deep Learning Specialization,Software Engineer,Reject,47445,2
+438,George Clark,"Python, Deep Learning, Machine Learning, SQL",3,PhD,Google ML,Data Scientist,Hire,77893,10
+439,Willie Castaneda,"Java, React",9,B.Tech,AWS Certified,Software Engineer,Hire,79610,1
+440,William Barnes,"C++, SQL",6,MBA,AWS Certified,Software Engineer,Hire,83118,3
+441,Zoe King,"Deep Learning, Python, Machine Learning",9,MBA,Google ML,Data Scientist,Hire,105724,10
+442,Benjamin Ward,"Networking, Cybersecurity",5,MBA,None,Cybersecurity Analyst,Hire,40736,6
+443,Jason Cummings,"Machine Learning, SQL, Deep Learning",7,MBA,Google ML,Data Scientist,Hire,79303,6
+444,Daniel Cline,"Java, C++, SQL, React",4,B.Tech,None,Software Engineer,Hire,46950,7
+445,Debbie Duffy,"Java, React, SQL",4,PhD,AWS Certified,Software Engineer,Hire,92781,0
+446,Melissa Lowe,"Java, React",10,B.Sc,Deep Learning Specialization,Software Engineer,Hire,75477,6
+447,Susan Warren,"TensorFlow, Python, NLP",10,MBA,None,AI Researcher,Hire,95290,0
+448,Amber Parker,"Machine Learning, Python",8,B.Sc,None,Data Scientist,Hire,40162,7
+449,Tracy Dalton,"React, SQL, Java",6,B.Tech,Deep Learning Specialization,Software Engineer,Hire,115386,4
+450,Nicholas Hutchinson,"SQL, React, Java",0,M.Tech,None,Software Engineer,Reject,81417,0
+451,Thomas Hood,"Networking, Ethical Hacking, Cybersecurity",10,B.Sc,Google ML,Cybersecurity Analyst,Hire,92197,5
+452,William Parker V,"Python, Machine Learning, Deep Learning",8,B.Sc,Deep Learning Specialization,Data Scientist,Hire,100425,0
+453,Michael Krueger,"Java, SQL, React",5,MBA,None,Software Engineer,Hire,49176,8
+454,Jordan Cook,"Java, React, C++, SQL",3,B.Sc,Google ML,Software Engineer,Hire,63179,9
+455,Michael George,"SQL, Java",8,B.Tech,AWS Certified,Software Engineer,Hire,83833,8
+456,Joshua Bennett,"NLP, TensorFlow, Python, Pytorch",0,M.Tech,Google ML,AI Researcher,Hire,119583,8
+457,Paul Wallace,"Cybersecurity, Ethical Hacking, Linux, Networking",6,MBA,Deep Learning Specialization,Cybersecurity Analyst,Hire,80085,10
+458,Keith Hayes,"Linux, Networking",6,PhD,None,Cybersecurity Analyst,Hire,85029,9
+459,Scott Fisher,"Java, C++",4,B.Tech,Deep Learning Specialization,Software Engineer,Hire,104969,8
+460,Brandon Reyes,"TensorFlow, Python, NLP",6,B.Tech,Google ML,AI Researcher,Hire,88432,4
+461,Jamie Smith,"NLP, Pytorch, TensorFlow",9,MBA,Deep Learning Specialization,AI Researcher,Hire,67341,8
+462,Daniel Ruiz,"Ethical Hacking, Networking, Linux",1,M.Tech,Google ML,Cybersecurity Analyst,Hire,102085,6
+463,Dominic Warren,"Pytorch, Python",8,B.Sc,AWS Certified,AI Researcher,Hire,116934,10
+464,Travis Thompson,"C++, Java",0,M.Tech,Deep Learning Specialization,Software Engineer,Reject,109551,3
+465,Steven White,"Ethical Hacking, Networking",10,M.Tech,AWS Certified,Cybersecurity Analyst,Hire,71504,6
+466,Jessica Trevino,"TensorFlow, Pytorch, Python, NLP",4,MBA,AWS Certified,AI Researcher,Hire,61757,2
+467,Monica Armstrong,"Pytorch, Python, TensorFlow, NLP",5,B.Sc,Google ML,AI Researcher,Hire,75037,10
+468,Margaret Turner,"Cybersecurity, Ethical Hacking, Networking, Linux",3,PhD,None,Cybersecurity Analyst,Hire,105166,5
+469,Renee West,"C++, Java, SQL",2,MBA,Google ML,Software Engineer,Hire,62255,7
+470,Samuel Lawson,"Pytorch, Python",4,B.Sc,AWS Certified,AI Researcher,Hire,72233,9
+471,Dana Gibson,"Python, TensorFlow, Pytorch, NLP",8,PhD,AWS Certified,AI Researcher,Hire,44783,10
+472,Claire Harris,"SQL, Deep Learning, Machine Learning, Python",1,PhD,None,Data Scientist,Reject,84161,6
+473,Carolyn Willis,"TensorFlow, NLP, Python",0,MBA,Google ML,AI Researcher,Reject,40720,2
+474,Mary Taylor,"SQL, Machine Learning, Deep Learning",9,B.Tech,None,Data Scientist,Hire,114686,0
+475,Morgan Bennett,"Machine Learning, SQL, Python, Deep Learning",2,MBA,Google ML,Data Scientist,Hire,108247,6
+476,Christina Oneal,"Python, Machine Learning",10,MBA,Google ML,Data Scientist,Hire,89482,5
+477,Carrie Wright,"Deep Learning, Machine Learning, SQL",1,B.Tech,None,Data Scientist,Reject,58515,6
+478,Beth Harper,"SQL, Python",8,MBA,Deep Learning Specialization,Data Scientist,Hire,75286,10
+479,Johnny Arias,"Networking, Ethical Hacking, Linux, Cybersecurity",10,M.Tech,Google ML,Cybersecurity Analyst,Hire,56891,0
+480,Daniel Montgomery,"SQL, Machine Learning",1,B.Sc,Deep Learning Specialization,Data Scientist,Reject,104811,1
+481,Andrew Moore,"Machine Learning, Python, SQL",0,MBA,Google ML,Data Scientist,Reject,116814,5
+482,Douglas Sampson,"Linux, Cybersecurity, Ethical Hacking, Networking",2,B.Tech,AWS Certified,Cybersecurity Analyst,Hire,59397,10
+483,Jodi Franklin,"React, C++, Java",10,MBA,Deep Learning Specialization,Software Engineer,Hire,76012,1
+484,Ann Morgan,"Networking, Cybersecurity, Linux",5,M.Tech,Google ML,Cybersecurity Analyst,Hire,113331,8
+485,Laurie Wilson,"C++, Java, React, SQL",10,MBA,Deep Learning Specialization,Software Engineer,Hire,103925,9
+486,Matthew Gregory,"Ethical Hacking, Networking",8,B.Sc,None,Cybersecurity Analyst,Hire,69766,1
+487,Eric Hill,"Ethical Hacking, Linux",6,B.Tech,Deep Learning Specialization,Cybersecurity Analyst,Hire,83470,2
+488,Alyssa Thomas,"TensorFlow, Python, NLP",10,MBA,None,AI Researcher,Hire,63362,6
+489,Lindsay Christian,"C++, React, SQL, Java",1,M.Tech,Google ML,Software Engineer,Hire,49305,9
+490,Deborah Ramirez,"SQL, Machine Learning, Deep Learning, Python",3,PhD,None,Data Scientist,Hire,104405,9
+491,Sheri Dickerson,"Python, Pytorch, NLP",0,PhD,Google ML,AI Researcher,Hire,88256,9
+492,Kevin Moreno,"C++, React, Java",10,B.Sc,Google ML,Software Engineer,Hire,117566,8
+493,Brian Dodson,"Deep Learning, Machine Learning, SQL",2,PhD,Deep Learning Specialization,Data Scientist,Hire,106032,10
+494,Paula Fletcher,"Machine Learning, Python, SQL",6,B.Tech,Deep Learning Specialization,Data Scientist,Hire,116481,8
+495,Dawn Price,"React, SQL, Java, C++",6,B.Tech,Deep Learning Specialization,Software Engineer,Hire,119018,0
+496,Regina English,"Machine Learning, Deep Learning, Python",3,B.Sc,AWS Certified,Data Scientist,Hire,79930,9
+497,Darrell Morris,"Linux, Ethical Hacking, Cybersecurity, Networking",7,B.Tech,AWS Certified,Cybersecurity Analyst,Hire,61624,1
+498,Matthew Reynolds,"Java, SQL",8,M.Tech,Deep Learning Specialization,Software Engineer,Hire,115051,2
+499,Jill Combs,"Java, React, SQL, C++",8,M.Tech,Google ML,Software Engineer,Hire,61601,7
+500,Kyle Cole,"Java, SQL, C++, React",3,B.Tech,Deep Learning Specialization,Software Engineer,Reject,67414,0
+501,Christine Beck,"NLP, TensorFlow, Python, Pytorch",9,PhD,AWS Certified,AI Researcher,Hire,112005,10
+502,Samantha Evans,"Pytorch, TensorFlow, NLP, Python",5,MBA,AWS Certified,AI Researcher,Hire,53097,0
+503,Eric Pena,"SQL, Deep Learning, Python, Machine Learning",7,B.Tech,None,Data Scientist,Hire,54552,2
+504,Alex Morgan,"Linux, Networking",4,M.Tech,None,Cybersecurity Analyst,Reject,116278,0
+505,Jon Moore,"SQL, C++, React",1,M.Tech,Deep Learning Specialization,Software Engineer,Reject,118312,4
+506,Robert Aguilar,"Networking, Ethical Hacking",0,PhD,Deep Learning Specialization,Cybersecurity Analyst,Reject,63561,5
+507,Danielle Rollins,"TensorFlow, Python, NLP",7,B.Sc,Deep Learning Specialization,AI Researcher,Hire,74451,9
+508,Eric Bush,"Machine Learning, Python",5,B.Tech,Google ML,Data Scientist,Hire,91581,4
+509,Lisa Doyle,"Pytorch, TensorFlow",9,PhD,Google ML,AI Researcher,Hire,59856,2
+510,Cody Harris,"Ethical Hacking, Linux",7,PhD,None,Cybersecurity Analyst,Hire,47840,0
+511,Roger Lewis,"Networking, Ethical Hacking, Linux, Cybersecurity",9,B.Tech,Deep Learning Specialization,Cybersecurity Analyst,Hire,80779,5
+512,Pamela Foster,"Networking, Ethical Hacking, Cybersecurity, Linux",9,MBA,Deep Learning Specialization,Cybersecurity Analyst,Hire,73181,5
+513,Monica Allison,"Cybersecurity, Linux, Ethical Hacking",1,B.Tech,AWS Certified,Cybersecurity Analyst,Hire,74376,9
+514,David Cruz,"Cybersecurity, Linux, Networking, Ethical Hacking",0,M.Tech,AWS Certified,Cybersecurity Analyst,Reject,77105,4
+515,John Braun,"Java, React, SQL, C++",1,B.Sc,None,Software Engineer,Hire,107509,10
+516,Ryan Smith,"React, C++",9,B.Sc,None,Software Engineer,Hire,102113,6
+517,Joseph Chapman,"SQL, React, Java, C++",9,MBA,Google ML,Software Engineer,Hire,95141,7
+518,Renee Hayes,"Ethical Hacking, Linux",4,B.Sc,Deep Learning Specialization,Cybersecurity Analyst,Hire,56684,5
+519,Karen Weiss,"SQL, Java, C++",2,B.Sc,AWS Certified,Software Engineer,Reject,90151,1
+520,Elizabeth Mcmillan,"C++, React, SQL",9,PhD,Google ML,Software Engineer,Hire,113497,5
+521,Kimberly Carpenter,"Python, NLP, Pytorch",2,PhD,AWS Certified,AI Researcher,Reject,80377,1
+522,Heather Booker,"NLP, Pytorch, TensorFlow",9,B.Sc,None,AI Researcher,Hire,108379,10
+523,Ronald Griffith,"Linux, Networking, Cybersecurity, Ethical Hacking",8,B.Tech,Deep Learning Specialization,Cybersecurity Analyst,Hire,40945,4
+524,Glenn Kelley,"Machine Learning, Deep Learning, SQL",0,B.Sc,AWS Certified,Data Scientist,Reject,63564,6
+525,Christina Hester,"SQL, C++",7,B.Sc,AWS Certified,Software Engineer,Hire,47957,7
+526,Jenna Burnett,"Networking, Cybersecurity",7,PhD,None,Cybersecurity Analyst,Hire,50704,0
+527,Mary Abbott,"Java, React, SQL",1,PhD,None,Software Engineer,Reject,91756,1
+528,Cheryl Morton,"Ethical Hacking, Networking, Linux",0,B.Tech,Google ML,Cybersecurity Analyst,Hire,99469,9
+529,Kyle Johnson,"SQL, Machine Learning, Deep Learning, Python",6,M.Tech,Deep Learning Specialization,Data Scientist,Hire,117621,5
+530,Denise Cruz,"TensorFlow, NLP, Pytorch, Python",4,M.Tech,AWS Certified,AI Researcher,Hire,48906,7
+531,Crystal Parker,"Deep Learning, Machine Learning, SQL",5,M.Tech,None,Data Scientist,Hire,79635,9
+532,Eddie Hutchinson,"Python, Machine Learning",7,B.Sc,AWS Certified,Data Scientist,Hire,55994,2
+533,Sierra Edwards,"C++, SQL",5,M.Tech,Google ML,Software Engineer,Hire,41530,0
+534,Peter Mcmahon,"Python, Deep Learning, SQL, Machine Learning",5,MBA,Google ML,Data Scientist,Hire,69257,0
+535,Alexandra Gilbert,"Networking, Linux",2,B.Sc,None,Cybersecurity Analyst,Reject,64118,0
+536,Heather Watson,"React, SQL",4,PhD,None,Software Engineer,Hire,108770,10
+537,Carlos Ochoa,"Java, React, C++, SQL",8,B.Tech,Google ML,Software Engineer,Hire,63268,7
+538,Jill Williams,"Pytorch, TensorFlow, NLP",4,B.Sc,None,AI Researcher,Hire,59560,5
+539,Jessica Doyle,"Java, C++, SQL",9,M.Tech,Deep Learning Specialization,Software Engineer,Hire,82288,0
+540,Felicia Wright,"TensorFlow, Pytorch, NLP, Python",6,PhD,Google ML,AI Researcher,Hire,64338,10
+541,Michael Santos,"SQL, Java, C++, React",5,M.Tech,Deep Learning Specialization,Software Engineer,Hire,111578,9
+542,Angie Roberts,"Deep Learning, Python, Machine Learning",6,B.Tech,Google ML,Data Scientist,Hire,89840,2
+543,Harold Acevedo,"SQL, C++, React",3,B.Tech,None,Software Engineer,Hire,112003,7
+544,Sarah Jones,"Ethical Hacking, Networking",6,B.Sc,AWS Certified,Cybersecurity Analyst,Hire,119478,2
+545,Jeffrey Smith,"Machine Learning, Deep Learning",7,B.Tech,AWS Certified,Data Scientist,Hire,43930,8
+546,Marcus Ramirez,"SQL, Java, React",10,B.Sc,Deep Learning Specialization,Software Engineer,Hire,81778,4
+547,Christy Ramirez,"Pytorch, NLP",1,MBA,None,AI Researcher,Reject,105641,2
+548,Rhonda Mendoza,"Machine Learning, Deep Learning, SQL",7,M.Tech,Deep Learning Specialization,Data Scientist,Hire,78218,10
+549,Heather Lewis,"Networking, Linux, Ethical Hacking, Cybersecurity",3,M.Tech,AWS Certified,Cybersecurity Analyst,Hire,115553,9
+550,Adrian Marshall,"TensorFlow, NLP, Python",3,PhD,AWS Certified,AI Researcher,Hire,71785,7
+551,Rebecca Kirby,"Python, Deep Learning, Machine Learning, SQL",9,B.Tech,Google ML,Data Scientist,Hire,64063,9
+552,Kirsten Smith,"React, C++, Java, SQL",5,B.Sc,None,Software Engineer,Hire,89191,3
+553,Timothy Duncan,"Python, TensorFlow, Pytorch, NLP",5,PhD,Google ML,AI Researcher,Hire,104955,0
+554,Barbara Turner,"React, C++, Java, SQL",7,M.Tech,Deep Learning Specialization,Software Engineer,Hire,58910,7
+555,Frank Hale,"Machine Learning, Python, Deep Learning, SQL",1,B.Sc,Google ML,Data Scientist,Reject,55166,4
+556,James Brooks Jr.,"React, SQL, Java, C++",1,PhD,None,Software Engineer,Reject,50422,1
+557,Jennifer Smith,"Ethical Hacking, Networking, Cybersecurity",10,MBA,Deep Learning Specialization,Cybersecurity Analyst,Hire,51159,8
+558,Jessica Campbell,"Machine Learning, Deep Learning, Python",7,B.Tech,Deep Learning Specialization,Data Scientist,Hire,99741,0
+559,Zachary Parker,"Cybersecurity, Linux, Networking, Ethical Hacking",0,MBA,None,Cybersecurity Analyst,Hire,92175,10
+560,Thomas Hawkins,"Cybersecurity, Ethical Hacking",1,PhD,AWS Certified,Cybersecurity Analyst,Reject,65601,5
+561,William Hanson,"NLP, Python",5,B.Tech,AWS Certified,AI Researcher,Hire,105979,3
+562,Rachel Cherry,"TensorFlow, Python",10,PhD,AWS Certified,AI Researcher,Hire,98659,6
+563,Dr. Thomas Hernandez,"NLP, Pytorch, Python",0,MBA,None,AI Researcher,Reject,40400,0
+564,Sue Young,"React, Java, C++",6,B.Sc,AWS Certified,Software Engineer,Hire,103874,5
+565,Robyn Griffin,"Networking, Linux",10,PhD,None,Cybersecurity Analyst,Hire,82245,2
+566,Kaitlin Roman,"SQL, Deep Learning",5,B.Sc,Google ML,Data Scientist,Hire,55964,5
+567,Julie Thompson,"C++, Java, React, SQL",9,MBA,AWS Certified,Software Engineer,Hire,81897,4
+568,Hunter Dalton,"React, Java",3,M.Tech,AWS Certified,Software Engineer,Hire,105280,9
+569,Zachary Ross,"Linux, Cybersecurity, Ethical Hacking",8,PhD,Deep Learning Specialization,Cybersecurity Analyst,Hire,71624,8
+570,Gabriel Torres,"C++, SQL",2,M.Tech,AWS Certified,Software Engineer,Reject,83223,4
+571,Michael Smith,"TensorFlow, Python, NLP, Pytorch",9,MBA,None,AI Researcher,Hire,87232,0
+572,Steven Wagner,"Machine Learning, Python, Deep Learning",7,B.Tech,None,Data Scientist,Hire,47698,8
+573,Anna May,"C++, React",4,B.Sc,Deep Learning Specialization,Software Engineer,Hire,54116,10
+574,Billy Baker,"Python, TensorFlow, Pytorch",1,B.Sc,Deep Learning Specialization,AI Researcher,Hire,85905,7
+575,Michelle King,"Ethical Hacking, Networking",6,M.Tech,None,Cybersecurity Analyst,Hire,94810,7
+576,James Johnson,"Python, Machine Learning",5,B.Sc,None,Data Scientist,Hire,65003,1
+577,Clarence Hernandez,"React, Java, SQL, C++",8,B.Sc,AWS Certified,Software Engineer,Hire,73325,2
+578,Timothy Wong,"React, C++, Java",8,MBA,AWS Certified,Software Engineer,Hire,65676,0
+579,Christopher Mcconnell,"SQL, Java, React, C++",3,M.Tech,Google ML,Software Engineer,Hire,52454,9
+580,John Wilson,"Deep Learning, SQL",1,B.Tech,AWS Certified,Data Scientist,Reject,50848,4
+581,Maria Torres,"Python, Machine Learning, SQL",0,B.Tech,AWS Certified,Data Scientist,Reject,71169,4
+582,Samantha Rodriguez,"React, Java",5,B.Sc,AWS Certified,Software Engineer,Hire,70378,8
+583,Brian Dean,"C++, Java",5,PhD,Google ML,Software Engineer,Hire,76165,8
+584,Jonathan Baxter,"TensorFlow, Python",5,B.Sc,None,AI Researcher,Hire,114286,6
+585,Andrew Santiago,"Ethical Hacking, Cybersecurity, Linux",6,MBA,Google ML,Cybersecurity Analyst,Hire,66802,1
+586,Bridget Williams,"TensorFlow, Python",1,M.Tech,Deep Learning Specialization,AI Researcher,Reject,108308,4
+587,Gary Glenn,"Python, SQL, Machine Learning",9,MBA,Deep Learning Specialization,Data Scientist,Hire,112067,2
+588,Samantha Jackson,"Linux, Networking, Ethical Hacking",3,B.Tech,AWS Certified,Cybersecurity Analyst,Hire,45475,3
+589,Katherine Perry,"C++, React",10,M.Tech,Deep Learning Specialization,Software Engineer,Hire,49673,5
+590,Brenda Stein,"Linux, Ethical Hacking",3,M.Tech,AWS Certified,Cybersecurity Analyst,Reject,45271,2
+591,David Marks,"SQL, React, Java",2,MBA,Google ML,Software Engineer,Reject,62666,1
+592,Peter Thomas,"Machine Learning, Python, SQL, Deep Learning",9,M.Tech,None,Data Scientist,Hire,74018,10
+593,Kathryn Santos,"Deep Learning, SQL, Machine Learning, Python",3,PhD,Google ML,Data Scientist,Hire,75861,1
+594,Brittany Nelson,"Pytorch, TensorFlow, NLP",6,MBA,Deep Learning Specialization,AI Researcher,Hire,88511,4
+595,Katelyn Durham,"Pytorch, Python, TensorFlow",7,B.Sc,None,AI Researcher,Hire,53796,3
+596,Julia Ferguson,"Pytorch, NLP, Python",10,M.Tech,Deep Learning Specialization,AI Researcher,Hire,106554,2
+597,Samantha Smith,"Python, Machine Learning",8,B.Tech,Deep Learning Specialization,Data Scientist,Hire,95958,2
+598,Jessica Stewart,"Machine Learning, Python, Deep Learning",3,M.Tech,None,Data Scientist,Hire,81656,7
+599,Jennifer Yu,"NLP, Python, TensorFlow",7,B.Sc,None,AI Researcher,Hire,94313,9
+600,Jessica Robinson,"NLP, Pytorch, TensorFlow",7,B.Tech,Deep Learning Specialization,AI Researcher,Hire,66221,4
+601,John White,"C++, React, SQL, Java",9,B.Tech,Google ML,Software Engineer,Hire,76854,9
+602,John Chaney,"NLP, TensorFlow, Pytorch, Python",0,B.Sc,Google ML,AI Researcher,Reject,107278,1
+603,Clifford Andrews,"SQL, Java",5,B.Sc,AWS Certified,Software Engineer,Hire,54536,0
+604,Kimberly Miles,"React, SQL",10,MBA,AWS Certified,Software Engineer,Hire,113587,0
+605,Sara Jackson,"Python, Deep Learning, Machine Learning",5,M.Tech,None,Data Scientist,Hire,94342,10
+606,Kelly Porter,"Cybersecurity, Networking, Ethical Hacking, Linux",5,B.Tech,AWS Certified,Cybersecurity Analyst,Hire,74090,3
+607,Adam Hopkins,"Pytorch, TensorFlow, NLP",4,B.Tech,None,AI Researcher,Hire,90906,3
+608,Raymond Roach,"C++, React, SQL, Java",5,M.Tech,None,Software Engineer,Hire,48105,6
+609,Nathan Davis,"NLP, TensorFlow, Python, Pytorch",8,MBA,None,AI Researcher,Hire,50831,3
+610,Briana Burnett,"Linux, Ethical Hacking, Cybersecurity, Networking",8,M.Tech,None,Cybersecurity Analyst,Hire,76830,2
+611,Kelly Scott,"Java, React, C++, SQL",5,MBA,Google ML,Software Engineer,Hire,87525,1
+612,Melissa Griffin,"Java, SQL",3,PhD,Google ML,Software Engineer,Hire,112396,10
+613,Dennis Wheeler,"NLP, Pytorch",8,B.Sc,AWS Certified,AI Researcher,Hire,41624,4
+614,Caroline Ford,"Java, C++, SQL, React",7,B.Sc,Google ML,Software Engineer,Hire,115954,9
+615,Kevin Robinson,"Pytorch, Python, TensorFlow",4,MBA,None,AI Researcher,Hire,84358,2
+616,Steven Crawford,"Networking, Ethical Hacking, Linux",3,M.Tech,None,Cybersecurity Analyst,Hire,101694,8
+617,Brett Bird,"TensorFlow, Python, Pytorch, NLP",2,B.Sc,Deep Learning Specialization,AI Researcher,Hire,97529,4
+618,Heather Brown,"SQL, React, C++, Java",8,M.Tech,Google ML,Software Engineer,Hire,102924,7
+619,Larry Williams,"TensorFlow, NLP, Python, Pytorch",6,M.Tech,Deep Learning Specialization,AI Researcher,Hire,115539,9
+620,Mr. Bryan Hernandez,"Deep Learning, SQL, Machine Learning",6,MBA,Deep Learning Specialization,Data Scientist,Hire,79795,8
+621,Patricia Sherman,"TensorFlow, NLP, Python, Pytorch",4,M.Tech,AWS Certified,AI Researcher,Hire,42305,10
+622,Pam Reynolds,"Python, TensorFlow, NLP",10,M.Tech,None,AI Researcher,Hire,118077,8
+623,Steven Compton,"Cybersecurity, Ethical Hacking, Networking, Linux",2,B.Sc,Google ML,Cybersecurity Analyst,Hire,72178,3
+624,Luke Johnson,"Pytorch, NLP",5,M.Tech,AWS Certified,AI Researcher,Hire,64489,4
+625,Victoria Thompson,"Cybersecurity, Ethical Hacking, Linux, Networking",5,B.Tech,AWS Certified,Cybersecurity Analyst,Hire,109004,7
+626,Erin Davis,"Python, Deep Learning, SQL",4,MBA,AWS Certified,Data Scientist,Hire,95919,6
+627,Mitchell Foster,"SQL, C++",0,B.Tech,Google ML,Software Engineer,Reject,46679,5
+628,Kathy Meyer,"Python, TensorFlow, Pytorch",0,M.Tech,None,AI Researcher,Reject,75275,1
+629,Jeffrey Johnson,"SQL, Deep Learning",3,B.Tech,AWS Certified,Data Scientist,Hire,99679,5
+630,Craig Lewis,"TensorFlow, NLP, Python, Pytorch",3,B.Sc,None,AI Researcher,Hire,95357,8
+631,Kevin Cross,"Cybersecurity, Networking",4,PhD,None,Cybersecurity Analyst,Reject,98557,2
+632,Nicholas Williams,"Linux, Ethical Hacking, Cybersecurity",8,PhD,Deep Learning Specialization,Cybersecurity Analyst,Hire,102480,5
+633,Thomas Hutchinson,"Ethical Hacking, Networking, Linux, Cybersecurity",1,B.Sc,Google ML,Cybersecurity Analyst,Hire,97517,9
+634,Patrick Gonzalez,"TensorFlow, Pytorch, Python, NLP",10,B.Tech,AWS Certified,AI Researcher,Hire,94952,6
+635,Edward Johnson,"C++, React",7,PhD,None,Software Engineer,Hire,113418,1
+636,Mr. Jacob Simmons,"React, SQL, Java",0,B.Tech,AWS Certified,Software Engineer,Reject,49006,3
+637,Charles Bennett,"Pytorch, TensorFlow, Python",6,B.Tech,None,AI Researcher,Hire,65283,7
+638,Austin Johnson,"TensorFlow, NLP, Pytorch",3,B.Sc,Deep Learning Specialization,AI Researcher,Hire,65916,9
+639,Dr. Brandon Dickson DDS,"TensorFlow, NLP",7,M.Tech,Deep Learning Specialization,AI Researcher,Hire,45655,6
+640,Mr. Rick Gonzalez,"SQL, Machine Learning",5,B.Sc,Deep Learning Specialization,Data Scientist,Hire,42998,6
+641,Melanie Jones,"Ethical Hacking, Linux, Networking, Cybersecurity",3,PhD,None,Cybersecurity Analyst,Hire,106073,4
+642,Kevin English,"Networking, Cybersecurity",1,PhD,None,Cybersecurity Analyst,Hire,100697,9
+643,Michael Chang,"Ethical Hacking, Networking",7,B.Tech,Deep Learning Specialization,Cybersecurity Analyst,Hire,75810,7
+644,Shannon Nguyen,"Networking, Ethical Hacking",3,B.Sc,Google ML,Cybersecurity Analyst,Reject,45918,0
+645,Gregory Martin,"Cybersecurity, Networking, Ethical Hacking, Linux",9,PhD,AWS Certified,Cybersecurity Analyst,Hire,41733,0
+646,Susan Cobb,"NLP, TensorFlow, Pytorch",3,M.Tech,None,AI Researcher,Hire,115568,10
+647,Crystal Ford,"SQL, Java",0,B.Sc,AWS Certified,Software Engineer,Reject,65854,6
+648,Brittany Lee,"Pytorch, Python, TensorFlow",0,PhD,Google ML,AI Researcher,Reject,110862,6
+649,Emily Young,"Machine Learning, Python",3,B.Tech,Deep Learning Specialization,Data Scientist,Reject,79722,2
+650,Kathleen Farrell,"Linux, Cybersecurity, Ethical Hacking",10,M.Tech,Deep Learning Specialization,Cybersecurity Analyst,Hire,56768,3
+651,Anna Burch,"Python, Pytorch, NLP, TensorFlow",4,PhD,Deep Learning Specialization,AI Researcher,Hire,50369,8
+652,Kelly Berg,"Pytorch, TensorFlow",3,B.Tech,AWS Certified,AI Researcher,Hire,58215,9
+653,Mr. Kevin Guzman,"SQL, Java",1,M.Tech,None,Software Engineer,Reject,82703,0
+654,Michael Ramirez,"Networking, Cybersecurity, Ethical Hacking, Linux",4,B.Tech,Deep Learning Specialization,Cybersecurity Analyst,Hire,98013,4
+655,Steven Haney,"Ethical Hacking, Networking",9,B.Sc,Google ML,Cybersecurity Analyst,Hire,56987,1
+656,Sandra Brown,"C++, SQL, React, Java",6,PhD,AWS Certified,Software Engineer,Hire,43584,9
+657,Craig Howard,"Deep Learning, Machine Learning, Python, SQL",10,PhD,None,Data Scientist,Hire,116205,7
+658,Edward Duncan,"Networking, Linux, Ethical Hacking, Cybersecurity",0,MBA,None,Cybersecurity Analyst,Reject,108549,2
+659,Frank Hart,"NLP, TensorFlow, Python",3,B.Tech,AWS Certified,AI Researcher,Hire,62695,9
+660,Robin Erickson,"Pytorch, NLP, Python",2,B.Tech,None,AI Researcher,Reject,85775,5
+661,Brenda Hall,"Java, SQL",8,M.Tech,Google ML,Software Engineer,Hire,50950,8
+662,Monica Williams,"Linux, Cybersecurity",2,PhD,None,Cybersecurity Analyst,Hire,41824,7
+663,Gregory Alvarez,"Deep Learning, Python, SQL, Machine Learning",0,PhD,None,Data Scientist,Reject,95742,2
+664,Edward Williams,"Cybersecurity, Ethical Hacking, Networking",6,M.Tech,Google ML,Cybersecurity Analyst,Hire,108922,10
+665,Debra Martinez,"Python, NLP, Pytorch, TensorFlow",8,B.Tech,AWS Certified,AI Researcher,Hire,71605,3
+666,Mrs. Monica Thomas MD,"C++, Java, SQL, React",10,PhD,None,Software Engineer,Hire,79684,8
+667,William Gregory,"React, Java",3,B.Sc,None,Software Engineer,Reject,44106,0
+668,Breanna Archer,"Python, Pytorch",5,MBA,Deep Learning Specialization,AI Researcher,Hire,103073,10
+669,Sarah Jones,"Python, Pytorch, NLP, TensorFlow",3,PhD,Deep Learning Specialization,AI Researcher,Hire,82727,9
+670,Sara Brewer,"Deep Learning, Python, SQL",2,PhD,Deep Learning Specialization,Data Scientist,Reject,70971,3
+671,Tammy Chen,"Python, NLP, Pytorch, TensorFlow",0,B.Sc,Google ML,AI Researcher,Reject,106452,3
+672,John Mooney,"Python, TensorFlow, NLP, Pytorch",5,M.Tech,None,AI Researcher,Hire,74282,7
+673,Shane Burch,"C++, React",9,MBA,None,Software Engineer,Hire,113428,2
+674,Zachary Simpson,"Ethical Hacking, Linux, Networking, Cybersecurity",0,B.Tech,Google ML,Cybersecurity Analyst,Reject,76108,5
+675,Alexandra Williams,"SQL, Python",10,PhD,AWS Certified,Data Scientist,Hire,64417,7
+676,Danielle Lewis,"Ethical Hacking, Networking, Linux, Cybersecurity",0,B.Tech,Google ML,Cybersecurity Analyst,Hire,70943,8
+677,David Bradley,"SQL, Machine Learning, Deep Learning",4,B.Sc,None,Data Scientist,Reject,75186,1
+678,Annette Greene,"SQL, Java, React, C++",5,M.Tech,Deep Learning Specialization,Software Engineer,Hire,60720,7
+679,Cheryl Cruz,"React, SQL, C++",6,M.Tech,Google ML,Software Engineer,Hire,100827,10
+680,Joseph Jackson,"Machine Learning, Python, Deep Learning, SQL",8,B.Sc,AWS Certified,Data Scientist,Hire,57448,0
+681,Jessica Bradford,"Networking, Ethical Hacking",2,PhD,AWS Certified,Cybersecurity Analyst,Hire,106309,7
+682,Sandra Costa,"Python, TensorFlow, Pytorch, NLP",3,PhD,None,AI Researcher,Hire,63325,8
+683,Thomas Sanders,"Linux, Cybersecurity",0,MBA,Google ML,Cybersecurity Analyst,Reject,89654,8
+684,Christine Trevino,"Java, C++",3,PhD,Deep Learning Specialization,Software Engineer,Hire,53518,7
+685,Nicole Mercado,"React, Java",5,MBA,None,Software Engineer,Hire,75717,7
+686,Nicholas White,"TensorFlow, NLP",2,MBA,None,AI Researcher,Hire,99963,10
+687,Sarah Adams,"SQL, Java, C++, React",6,B.Sc,Deep Learning Specialization,Software Engineer,Hire,73268,8
+688,Kenneth Johnson,"Linux, Cybersecurity, Ethical Hacking",7,B.Tech,None,Cybersecurity Analyst,Hire,41678,8
+689,Chelsea Friedman,"Pytorch, TensorFlow, Python, NLP",4,B.Sc,Google ML,AI Researcher,Hire,45453,5
+690,Jennifer Shaw,"Python, TensorFlow",3,B.Sc,AWS Certified,AI Researcher,Hire,70067,3
+691,Victor Garza,"C++, Java",4,MBA,Deep Learning Specialization,Software Engineer,Hire,43297,2
+692,Chelsea Harris,"NLP, Python, TensorFlow",7,MBA,AWS Certified,AI Researcher,Hire,49447,10
+693,Jeanette Garcia MD,"Cybersecurity, Linux",7,B.Tech,Deep Learning Specialization,Cybersecurity Analyst,Hire,92129,3
+694,Lorraine Jordan,"Ethical Hacking, Linux, Networking, Cybersecurity",6,B.Sc,Google ML,Cybersecurity Analyst,Hire,59129,5
+695,Emily Meyer,"Cybersecurity, Ethical Hacking",2,MBA,Deep Learning Specialization,Cybersecurity Analyst,Hire,84569,7
+696,Marcus Garrett,"Cybersecurity, Linux, Ethical Hacking, Networking",3,MBA,Deep Learning Specialization,Cybersecurity Analyst,Hire,118062,8
+697,Jessica Griffin,"Machine Learning, Python, Deep Learning",2,M.Tech,Google ML,Data Scientist,Reject,56433,2
+698,Kristy Horton,"Linux, Ethical Hacking",4,B.Tech,None,Cybersecurity Analyst,Hire,110442,7
+699,Laura Little,"Cybersecurity, Networking, Linux",8,M.Tech,Google ML,Cybersecurity Analyst,Hire,68492,4
+700,Ricky Alvarez,"Java, SQL",2,M.Tech,AWS Certified,Software Engineer,Hire,83473,10
+701,Sarah Robinson,"Networking, Cybersecurity, Ethical Hacking, Linux",4,B.Tech,None,Cybersecurity Analyst,Hire,113477,2
+702,Stacey Bradford,"React, SQL",8,B.Sc,Deep Learning Specialization,Software Engineer,Hire,86416,8
+703,Michael Mercado,"SQL, Java, C++",9,B.Tech,AWS Certified,Software Engineer,Hire,84959,6
+704,Brian Adams,"Pytorch, TensorFlow",9,B.Sc,Google ML,AI Researcher,Hire,61090,7
+705,Sylvia Rogers,"Networking, Cybersecurity, Ethical Hacking, Linux",7,B.Tech,Deep Learning Specialization,Cybersecurity Analyst,Hire,100153,6
+706,Stephanie Nguyen,"Pytorch, TensorFlow, NLP",4,M.Tech,Google ML,AI Researcher,Hire,63556,10
+707,Bobby Palmer,"Java, SQL, React",3,MBA,AWS Certified,Software Engineer,Hire,104253,8
+708,Melissa Deleon,"Machine Learning, Python, SQL",2,PhD,AWS Certified,Data Scientist,Hire,43703,5
+709,Ryan Silva,"NLP, TensorFlow",2,B.Sc,AWS Certified,AI Researcher,Hire,52471,10
+710,Dawn Bush,"Networking, Cybersecurity",3,PhD,None,Cybersecurity Analyst,Reject,93508,4
+711,Robert Simon,"Python, TensorFlow, NLP, Pytorch",4,B.Sc,None,AI Researcher,Hire,104295,6
+712,Meagan Spencer,"C++, SQL, Java",6,PhD,AWS Certified,Software Engineer,Hire,80373,8
+713,Jeffrey Olson,"Python, TensorFlow",0,MBA,Google ML,AI Researcher,Reject,61991,1
+714,Marie Stevens,"NLP, TensorFlow, Python, Pytorch",1,MBA,Google ML,AI Researcher,Reject,61309,2
+715,Jacob Ferrell,"C++, SQL, Java",0,M.Tech,AWS Certified,Software Engineer,Reject,41382,0
+716,David Frey,"Python, TensorFlow",6,B.Sc,Google ML,AI Researcher,Hire,116788,2
+717,Marissa Cook,"C++, SQL, React, Java",8,PhD,Deep Learning Specialization,Software Engineer,Hire,100202,5
+718,Melissa Patterson,"Networking, Ethical Hacking, Linux, Cybersecurity",4,PhD,None,Cybersecurity Analyst,Hire,52790,2
+719,Jason Elliott,"SQL, Machine Learning",4,MBA,Google ML,Data Scientist,Hire,42621,5
+720,Deanna Williams,"Pytorch, TensorFlow, Python, NLP",4,M.Tech,Google ML,AI Researcher,Hire,109802,3
+721,Jessica Woods,"SQL, Deep Learning",4,PhD,None,Data Scientist,Hire,97719,8
+722,Albert Rivera,"Cybersecurity, Networking",3,PhD,None,Cybersecurity Analyst,Hire,42368,9
+723,Jennifer Moran,"Python, Machine Learning",8,B.Tech,AWS Certified,Data Scientist,Hire,59833,2
+724,Christopher Campbell,"Ethical Hacking, Cybersecurity",9,MBA,None,Cybersecurity Analyst,Hire,44150,6
+725,Alan Moran,"C++, Java, SQL, React",2,M.Tech,AWS Certified,Software Engineer,Reject,54193,0
+726,Nicholas Stephens,"Python, Deep Learning, Machine Learning",8,B.Tech,Deep Learning Specialization,Data Scientist,Hire,110499,9
+727,Ryan Mason,"Machine Learning, Python, SQL",10,B.Sc,None,Data Scientist,Hire,84036,5
+728,Jennifer Morgan MD,"SQL, Machine Learning, Deep Learning",3,PhD,None,Data Scientist,Reject,91090,2
+729,Nicholas Phillips,"Pytorch, Python, NLP",2,B.Tech,None,AI Researcher,Reject,94786,4
+730,Andrea Beard,"React, C++",7,M.Tech,AWS Certified,Software Engineer,Hire,98988,10
+731,Sarah Jones,"Linux, Networking, Cybersecurity",3,M.Tech,Deep Learning Specialization,Cybersecurity Analyst,Reject,105232,1
+732,Eugene Rodriguez,"Networking, Linux",2,B.Sc,Google ML,Cybersecurity Analyst,Reject,73879,2
+733,Vicki Murphy,"SQL, Machine Learning, Deep Learning, Python",5,PhD,AWS Certified,Data Scientist,Hire,91828,10
+734,Kevin Baker,"C++, Java, React",5,MBA,AWS Certified,Software Engineer,Hire,76625,10
+735,Preston Martin,"Networking, Ethical Hacking",1,PhD,Google ML,Cybersecurity Analyst,Hire,117535,8
+736,Justin Clark,"React, Java, C++",5,B.Tech,Google ML,Software Engineer,Hire,115813,0
+737,Matthew Reed,"Ethical Hacking, Linux, Networking",3,M.Tech,None,Cybersecurity Analyst,Reject,95288,3
+738,Matthew Kent,"Cybersecurity, Ethical Hacking",6,MBA,AWS Certified,Cybersecurity Analyst,Hire,56096,8
+739,Danny Brown,"Ethical Hacking, Linux, Networking",5,B.Tech,Deep Learning Specialization,Cybersecurity Analyst,Hire,87063,5
+740,Amanda Shea,"Deep Learning, SQL, Machine Learning",6,PhD,None,Data Scientist,Hire,79100,2
+741,Jacob Chang,"Pytorch, Python, TensorFlow",5,MBA,AWS Certified,AI Researcher,Hire,77117,6
+742,Julie George,"TensorFlow, Pytorch, Python, NLP",7,B.Sc,AWS Certified,AI Researcher,Hire,55614,4
+743,Suzanne Watson,"React, SQL, C++, Java",0,B.Sc,Google ML,Software Engineer,Reject,118032,2
+744,Steve Smith,"Deep Learning, SQL, Python, Machine Learning",5,M.Tech,AWS Certified,Data Scientist,Hire,97148,1
+745,Nicole Austin,"Pytorch, NLP, TensorFlow",7,B.Sc,Deep Learning Specialization,AI Researcher,Hire,106421,2
+746,Megan Peterson,"Java, C++, React",0,PhD,Deep Learning Specialization,Software Engineer,Reject,118475,2
+747,Susan Andrews,"NLP, TensorFlow",6,B.Tech,Google ML,AI Researcher,Hire,106122,10
+748,Ryan Arnold,"NLP, Pytorch, Python",2,B.Sc,AWS Certified,AI Researcher,Hire,45134,10
+749,Jessica Porter,"NLP, Pytorch, TensorFlow",2,PhD,Deep Learning Specialization,AI Researcher,Reject,47573,3
+750,Christopher Smith,"C++, React, Java, SQL",1,M.Tech,None,Software Engineer,Reject,58823,3
+751,Thomas Ramos,"Cybersecurity, Networking, Linux",8,PhD,Deep Learning Specialization,Cybersecurity Analyst,Hire,107124,2
+752,Jacob Brown,"Deep Learning, Python, SQL",4,B.Tech,None,Data Scientist,Hire,90584,3
+753,Melissa Preston,"React, C++, SQL, Java",9,PhD,Deep Learning Specialization,Software Engineer,Hire,68203,9
+754,Kevin Carlson,"Machine Learning, Python, Deep Learning",0,B.Tech,Deep Learning Specialization,Data Scientist,Reject,91454,1
+755,Jesse Bird,"Python, Pytorch, TensorFlow",9,MBA,AWS Certified,AI Researcher,Hire,97312,1
+756,Alyssa Rivera,"C++, Java",5,B.Tech,Deep Learning Specialization,Software Engineer,Hire,116922,0
+757,Michelle Nolan,"Python, Pytorch, TensorFlow, NLP",6,PhD,Deep Learning Specialization,AI Researcher,Hire,71832,4
+758,Randy Williams,"Pytorch, Python, TensorFlow",0,B.Tech,None,AI Researcher,Reject,88958,4
+759,Eric Jimenez,"NLP, TensorFlow, Pytorch, Python",6,B.Tech,Google ML,AI Researcher,Hire,75755,0
+760,Janice Mann,"Deep Learning, SQL",1,MBA,Google ML,Data Scientist,Reject,71365,6
+761,Reginald Hernandez,"Ethical Hacking, Linux, Cybersecurity, Networking",6,B.Sc,Deep Learning Specialization,Cybersecurity Analyst,Hire,85255,10
+762,Shane Thomas,"Machine Learning, Deep Learning, SQL",6,M.Tech,None,Data Scientist,Hire,41610,7
+763,Mr. Johnathan Garcia,"SQL, Java, React",2,B.Tech,None,Software Engineer,Reject,82150,4
+764,Thomas Moore,"SQL, Deep Learning",6,B.Tech,Deep Learning Specialization,Data Scientist,Hire,116832,1
+765,Carrie Vazquez,"SQL, Deep Learning, Python",0,B.Tech,Google ML,Data Scientist,Reject,93534,5
+766,Nicholas Stevens,"Python, TensorFlow, NLP",1,MBA,AWS Certified,AI Researcher,Hire,52956,8
+767,Angelica Copeland,"Ethical Hacking, Cybersecurity",0,MBA,AWS Certified,Cybersecurity Analyst,Reject,68407,4
+768,Ashley Peck,"React, SQL, Java, C++",5,B.Sc,Deep Learning Specialization,Software Engineer,Hire,75828,4
+769,Robin Bradford,"Python, Deep Learning, SQL, Machine Learning",9,MBA,None,Data Scientist,Hire,93197,0
+770,Danielle York,"SQL, Python",8,MBA,AWS Certified,Data Scientist,Hire,104379,6
+771,Dr. Bradley Rogers,"Networking, Linux, Cybersecurity, Ethical Hacking",6,PhD,Google ML,Cybersecurity Analyst,Hire,58947,8
+772,Matthew Price,"TensorFlow, Pytorch, Python",9,PhD,Google ML,AI Researcher,Hire,75101,2
+773,Trevor Sampson,"SQL, Machine Learning",1,PhD,Deep Learning Specialization,Data Scientist,Reject,95743,4
+774,Steve Olson,"Python, Pytorch, TensorFlow",0,MBA,Deep Learning Specialization,AI Researcher,Reject,54236,6
+775,Amy White,"Machine Learning, Deep Learning, Python, SQL",4,B.Sc,None,Data Scientist,Hire,51928,8
+776,Sara Ward,"TensorFlow, Python, Pytorch, NLP",2,PhD,Deep Learning Specialization,AI Researcher,Hire,116970,3
+777,Traci Austin,"Python, SQL, Deep Learning, Machine Learning",10,M.Tech,Deep Learning Specialization,Data Scientist,Hire,110158,8
+778,Megan Juarez,"SQL, C++, Java",6,B.Sc,None,Software Engineer,Hire,113366,4
+779,Matthew Smith,"Deep Learning, Machine Learning, Python",10,B.Tech,None,Data Scientist,Hire,58090,4
+780,Martin Norris,"Java, React, C++",10,M.Tech,None,Software Engineer,Hire,74425,5
+781,Paul Torres,"Python, NLP, Pytorch, TensorFlow",6,PhD,Deep Learning Specialization,AI Researcher,Hire,65650,3
+782,Dennis Hunt,"Python, SQL",0,B.Tech,Google ML,Data Scientist,Hire,76195,10
+783,Miss Katherine Olson DDS,"SQL, C++",7,M.Tech,Deep Learning Specialization,Software Engineer,Hire,61986,5
+784,Tabitha Mcgee,"Ethical Hacking, Cybersecurity",5,PhD,Google ML,Cybersecurity Analyst,Hire,92506,5
+785,Sharon Murray,"Linux, Ethical Hacking",5,B.Tech,AWS Certified,Cybersecurity Analyst,Hire,111508,7
+786,Jonathan Edwards,"Python, Pytorch, TensorFlow, NLP",9,M.Tech,None,AI Researcher,Hire,67670,9
+787,Amy Campbell,"Python, Deep Learning",9,B.Tech,AWS Certified,Data Scientist,Hire,108567,1
+788,Jacob Duncan,"Networking, Linux, Ethical Hacking, Cybersecurity",7,PhD,None,Cybersecurity Analyst,Hire,92893,7
+789,Christina Sanchez,"TensorFlow, NLP",3,B.Tech,Google ML,AI Researcher,Hire,74914,10
+790,Yvonne Maynard,"Linux, Cybersecurity",9,B.Sc,Deep Learning Specialization,Cybersecurity Analyst,Hire,78574,7
+791,Kimberly Clark,"Java, C++, SQL",10,MBA,None,Software Engineer,Hire,53207,1
+792,Kendra Delacruz,"Deep Learning, Machine Learning, SQL, Python",1,PhD,None,Data Scientist,Hire,108185,8
+793,Tom Bennett,"SQL, Deep Learning, Python, Machine Learning",6,MBA,Google ML,Data Scientist,Hire,107075,8
+794,Jennifer Hess,"SQL, Deep Learning, Python, Machine Learning",7,M.Tech,None,Data Scientist,Hire,71964,7
+795,Jason Mayer,"TensorFlow, Python, NLP, Pytorch",10,B.Sc,Deep Learning Specialization,AI Researcher,Hire,82119,2
+796,Stephen Mills,"React, Java, C++, SQL",3,PhD,Google ML,Software Engineer,Hire,63537,2
+797,Deborah Lynch,"Networking, Cybersecurity, Ethical Hacking",7,PhD,None,Cybersecurity Analyst,Hire,54150,0
+798,Matthew Sandoval,"Ethical Hacking, Networking, Cybersecurity",1,M.Tech,None,Cybersecurity Analyst,Hire,47674,9
+799,Elizabeth Smith,"SQL, Java, C++",4,B.Tech,Deep Learning Specialization,Software Engineer,Hire,113251,8
+800,James Allen,"Machine Learning, SQL, Python, Deep Learning",7,B.Tech,Google ML,Data Scientist,Hire,71459,0
+801,Scott Kaiser,"TensorFlow, NLP, Pytorch, Python",8,M.Tech,Google ML,AI Researcher,Hire,53090,6
+802,James Baker,"Networking, Ethical Hacking",6,B.Sc,Deep Learning Specialization,Cybersecurity Analyst,Hire,107340,7
+803,Maria Bell,"Deep Learning, Python, SQL, Machine Learning",8,MBA,None,Data Scientist,Hire,115812,5
+804,Jason West,"SQL, C++",1,B.Tech,AWS Certified,Software Engineer,Hire,45422,10
+805,Dylan Bailey,"SQL, C++, Java, React",4,MBA,None,Software Engineer,Hire,119370,3
+806,Brian Welch,"TensorFlow, Python, NLP, Pytorch",9,M.Tech,Google ML,AI Researcher,Hire,68212,9
+807,Lori Oliver,"Python, Deep Learning, Machine Learning, SQL",8,B.Tech,None,Data Scientist,Hire,41965,2
+808,Nathan Miller,"Python, Machine Learning, Deep Learning",9,M.Tech,AWS Certified,Data Scientist,Hire,64058,1
+809,Mary Hodge,"SQL, Machine Learning, Python, Deep Learning",6,B.Tech,Deep Learning Specialization,Data Scientist,Hire,77388,4
+810,Shannon Perkins,"Linux, Ethical Hacking",8,MBA,AWS Certified,Cybersecurity Analyst,Hire,96662,9
+811,Lisa Martin,"Deep Learning, SQL, Machine Learning, Python",3,B.Sc,AWS Certified,Data Scientist,Hire,89915,9
+812,Brittany Knight,"Deep Learning, Python, SQL",2,B.Sc,Deep Learning Specialization,Data Scientist,Reject,99578,0
+813,James Williams,"SQL, Python, Machine Learning, Deep Learning",6,M.Tech,Deep Learning Specialization,Data Scientist,Hire,112595,7
+814,Cody Nolan,"TensorFlow, Pytorch",6,M.Tech,Deep Learning Specialization,AI Researcher,Hire,53035,10
+815,Jose Kane,"Ethical Hacking, Networking",5,M.Tech,Deep Learning Specialization,Cybersecurity Analyst,Hire,75413,4
+816,Anthony Contreras,"Linux, Cybersecurity, Ethical Hacking",8,MBA,Deep Learning Specialization,Cybersecurity Analyst,Hire,114489,9
+817,Andrea Stone,"Java, React, SQL",4,PhD,Deep Learning Specialization,Software Engineer,Hire,49673,7
+818,Cindy Armstrong,"TensorFlow, NLP, Pytorch, Python",1,PhD,AWS Certified,AI Researcher,Reject,83138,3
+819,Misty Bailey,"SQL, Machine Learning, Python, Deep Learning",4,B.Sc,Deep Learning Specialization,Data Scientist,Hire,73783,3
+820,Adam Tapia,"Networking, Linux, Ethical Hacking",4,PhD,None,Cybersecurity Analyst,Hire,107425,2
+821,Erin Kemp,"Cybersecurity, Ethical Hacking, Linux, Networking",1,B.Sc,Google ML,Cybersecurity Analyst,Reject,51229,2
+822,Ronald Tucker,"Ethical Hacking, Networking, Linux, Cybersecurity",0,B.Tech,None,Cybersecurity Analyst,Reject,93079,2
+823,Patrick Hayes,"SQL, Machine Learning",9,B.Sc,Google ML,Data Scientist,Hire,54846,8
+824,Colleen Bates,"Java, C++, React, SQL",10,PhD,Deep Learning Specialization,Software Engineer,Hire,77427,10
+825,Christopher Fisher,"Java, C++, React, SQL",6,B.Tech,Deep Learning Specialization,Software Engineer,Hire,58157,4
+826,Kelly Mejia,"Linux, Cybersecurity, Ethical Hacking",4,MBA,AWS Certified,Cybersecurity Analyst,Hire,67535,1
+827,Kyle Anderson,"TensorFlow, Python",9,PhD,AWS Certified,AI Researcher,Hire,65183,1
+828,Tiffany Cox,"React, SQL",8,M.Tech,AWS Certified,Software Engineer,Hire,46717,6
+829,Stephen Miller,"TensorFlow, NLP, Python",10,M.Tech,Google ML,AI Researcher,Hire,65446,9
+830,Deborah Hughes,"Cybersecurity, Ethical Hacking, Networking, Linux",3,MBA,None,Cybersecurity Analyst,Hire,53096,7
+831,Courtney Ware,"Pytorch, NLP, Python, TensorFlow",1,MBA,None,AI Researcher,Hire,84774,9
+832,Christina Sosa,"React, C++, Java, SQL",6,B.Tech,Google ML,Software Engineer,Hire,74854,6
+833,Antonio Hill,"Pytorch, Python",4,M.Tech,AWS Certified,AI Researcher,Hire,54228,1
+834,Omar Hill,"Python, SQL, Machine Learning",3,MBA,Deep Learning Specialization,Data Scientist,Hire,59564,2
+835,Mike Hayes,"Ethical Hacking, Cybersecurity, Networking, Linux",5,B.Tech,AWS Certified,Cybersecurity Analyst,Hire,104149,9
+836,Larry Moreno,"Java, SQL, C++",8,PhD,None,Software Engineer,Hire,59474,3
+837,Kelly Jones,"Deep Learning, Python",9,B.Tech,Google ML,Data Scientist,Hire,91723,8
+838,Cheryl Green,"React, C++",7,PhD,None,Software Engineer,Hire,107965,10
+839,Yolanda Vasquez,"Ethical Hacking, Networking, Cybersecurity, Linux",8,B.Sc,None,Cybersecurity Analyst,Hire,99384,1
+840,Rebecca Walker,"Machine Learning, Python, SQL",2,MBA,Deep Learning Specialization,Data Scientist,Hire,84205,4
+841,Gerald Greene,"Cybersecurity, Networking, Linux, Ethical Hacking",10,M.Tech,Deep Learning Specialization,Cybersecurity Analyst,Hire,114697,9
+842,Matthew Mckinney,"Python, Pytorch",5,MBA,AWS Certified,AI Researcher,Hire,101270,7
+843,Jasmine Duffy,"Python, SQL, Deep Learning",3,MBA,AWS Certified,Data Scientist,Hire,55341,10
+844,Daniel Carter,"Ethical Hacking, Linux",2,MBA,None,Cybersecurity Analyst,Hire,116969,7
+845,Gregory Murray,"Deep Learning, Machine Learning, SQL",10,B.Tech,None,Data Scientist,Hire,70494,7
+846,Megan Stephenson,"React, SQL, C++, Java",8,B.Sc,None,Software Engineer,Hire,93647,10
+847,Curtis Wood,"Deep Learning, Machine Learning",4,B.Tech,Google ML,Data Scientist,Hire,88986,2
+848,Nicole Martinez,"Python, SQL, Deep Learning",2,PhD,AWS Certified,Data Scientist,Hire,82119,8
+849,Tonya Sanchez,"SQL, Java, React",1,M.Tech,AWS Certified,Software Engineer,Reject,48917,3
+850,Lori Lopez DDS,"Machine Learning, Python, SQL",2,B.Tech,None,Data Scientist,Reject,44219,4
+851,Hannah Smith,"Ethical Hacking, Linux, Networking",7,B.Sc,None,Cybersecurity Analyst,Hire,63601,10
+852,Amanda Shepherd,"Python, Pytorch, NLP, TensorFlow",1,B.Sc,Google ML,AI Researcher,Reject,101851,2
+853,Timothy Smith,"Cybersecurity, Ethical Hacking, Networking, Linux",3,MBA,AWS Certified,Cybersecurity Analyst,Hire,97789,5
+854,Christian Elliott,"Python, Pytorch, TensorFlow, NLP",9,M.Tech,None,AI Researcher,Hire,91064,5
+855,Michelle Baker,"SQL, Java",7,M.Tech,AWS Certified,Software Engineer,Hire,48252,4
+856,Felicia Gonzalez,"Machine Learning, Python, SQL, Deep Learning",6,M.Tech,AWS Certified,Data Scientist,Hire,116163,2
+857,Karen Castillo,"SQL, Deep Learning, Python",5,MBA,Deep Learning Specialization,Data Scientist,Hire,46669,5
+858,Autumn Obrien,"Networking, Cybersecurity, Linux",9,B.Tech,Google ML,Cybersecurity Analyst,Hire,69810,0
+859,Eric Ramirez,"Machine Learning, SQL, Deep Learning",10,PhD,None,Data Scientist,Hire,54054,0
+860,Terry Simpson,"Linux, Ethical Hacking, Networking",4,M.Tech,Deep Learning Specialization,Cybersecurity Analyst,Hire,62790,9
+861,Karen Acosta,"Pytorch, Python",8,B.Tech,AWS Certified,AI Researcher,Hire,94680,10
+862,Chelsea Weaver,"TensorFlow, Pytorch, Python, NLP",6,PhD,AWS Certified,AI Researcher,Hire,109248,8
+863,Theresa Villanueva,"Linux, Networking, Cybersecurity",9,MBA,Deep Learning Specialization,Cybersecurity Analyst,Hire,73851,6
+864,Dennis Gamble,"SQL, Python, Machine Learning, Deep Learning",3,B.Sc,None,Data Scientist,Hire,94642,8
+865,Joseph Gallagher,"Networking, Cybersecurity, Ethical Hacking",8,B.Tech,None,Cybersecurity Analyst,Hire,94140,4
+866,Ashley Luna,"TensorFlow, Python, NLP",6,PhD,Deep Learning Specialization,AI Researcher,Hire,112672,2
+867,Timothy Buckley,"Python, SQL, Machine Learning",10,MBA,Google ML,Data Scientist,Hire,114118,2
+868,Samuel Mckinney,"Pytorch, Python, TensorFlow, NLP",5,MBA,Google ML,AI Researcher,Hire,109244,5
+869,Peter Wilson,"Java, React, SQL, C++",6,M.Tech,Google ML,Software Engineer,Hire,66936,5
+870,Cassandra Crawford,"TensorFlow, NLP, Pytorch",6,PhD,AWS Certified,AI Researcher,Hire,41199,9
+871,Kenneth Lee,"SQL, Machine Learning, Python",3,PhD,Google ML,Data Scientist,Hire,45975,10
+872,Karina Stone,"Java, C++, React, SQL",8,PhD,Google ML,Software Engineer,Hire,77705,0
+873,Lorraine Hammond,"Linux, Cybersecurity",8,MBA,AWS Certified,Cybersecurity Analyst,Hire,60790,7
+874,Matthew Ward,"Machine Learning, Python, Deep Learning, SQL",9,B.Tech,Google ML,Data Scientist,Hire,107697,5
+875,Wayne Hudson,"C++, React, SQL, Java",5,B.Sc,AWS Certified,Software Engineer,Hire,84438,10
+876,Brandi Hernandez,"Python, SQL, Machine Learning, Deep Learning",4,B.Tech,AWS Certified,Data Scientist,Hire,65571,5
+877,James Pruitt,"Machine Learning, Deep Learning, Python",3,PhD,None,Data Scientist,Hire,107521,10
+878,Margaret Martin,"TensorFlow, NLP, Python",0,M.Tech,AWS Certified,AI Researcher,Reject,40085,2
+879,Rachel Johnson,"Deep Learning, Machine Learning, SQL, Python",2,PhD,None,Data Scientist,Reject,50002,1
+880,Elizabeth Smith,"Cybersecurity, Ethical Hacking, Networking, Linux",6,PhD,Google ML,Cybersecurity Analyst,Hire,67810,1
+881,Desiree White,"React, SQL",9,B.Tech,AWS Certified,Software Engineer,Hire,50001,6
+882,Cindy Hamilton,"Java, C++",8,M.Tech,AWS Certified,Software Engineer,Hire,71678,0
+883,Scott Fuller,"Pytorch, TensorFlow, Python, NLP",4,B.Tech,None,AI Researcher,Hire,66621,5
+884,Kristen West MD,"SQL, Machine Learning",9,PhD,AWS Certified,Data Scientist,Hire,119901,3
+885,Joe Martinez,"TensorFlow, Pytorch, NLP, Python",4,B.Sc,AWS Certified,AI Researcher,Hire,103738,10
+886,David Tran,"Machine Learning, Deep Learning",9,PhD,None,Data Scientist,Hire,51682,8
+887,Steven Gonzalez,"Machine Learning, Deep Learning, SQL",3,PhD,AWS Certified,Data Scientist,Hire,48470,7
+888,Debra Williams,"Ethical Hacking, Cybersecurity, Linux",1,B.Sc,Deep Learning Specialization,Cybersecurity Analyst,Reject,117772,2
+889,Hannah Rivera,"Cybersecurity, Ethical Hacking, Linux",7,MBA,AWS Certified,Cybersecurity Analyst,Hire,64888,5
+890,Mrs. Heather Williams MD,"Python, Machine Learning, Deep Learning, SQL",7,M.Tech,Google ML,Data Scientist,Hire,112572,5
+891,Jason Case,"Cybersecurity, Networking",7,M.Tech,Google ML,Cybersecurity Analyst,Hire,117696,4
+892,Sandra Scott,"Pytorch, TensorFlow, Python",8,M.Tech,None,AI Researcher,Hire,82202,5
+893,Brian Sullivan,"Ethical Hacking, Networking",6,PhD,Google ML,Cybersecurity Analyst,Hire,45959,5
+894,Nicole Cox,"SQL, Java, React, C++",0,MBA,None,Software Engineer,Reject,70344,4
+895,Timothy Thomas,"SQL, Java, C++",3,M.Tech,None,Software Engineer,Hire,46781,6
+896,Erin Murphy,"NLP, TensorFlow, Python, Pytorch",6,MBA,AWS Certified,AI Researcher,Hire,102676,0
+897,Amber Crosby,"React, SQL, Java, C++",2,M.Tech,Deep Learning Specialization,Software Engineer,Hire,99600,3
+898,Patricia Dunn,"TensorFlow, NLP, Python, Pytorch",8,M.Tech,Google ML,AI Researcher,Hire,100399,7
+899,Margaret Price,"Java, SQL",2,MBA,None,Software Engineer,Hire,66087,9
+900,Barry Mitchell,"Networking, Cybersecurity, Linux",2,PhD,Deep Learning Specialization,Cybersecurity Analyst,Hire,55337,6
+901,Benjamin Gray,"Networking, Ethical Hacking, Cybersecurity, Linux",2,MBA,None,Cybersecurity Analyst,Reject,60745,0
+902,John Wilson,"Pytorch, NLP, Python, TensorFlow",7,M.Tech,AWS Certified,AI Researcher,Hire,112353,10
+903,Lisa White,"Deep Learning, Machine Learning, SQL, Python",6,PhD,Deep Learning Specialization,Data Scientist,Hire,48306,10
+904,James Grimes,"Pytorch, Python",9,PhD,Deep Learning Specialization,AI Researcher,Hire,97435,7
+905,Stacy Flores,"Deep Learning, Machine Learning",4,PhD,AWS Certified,Data Scientist,Reject,103828,0
+906,Amber Hunt,"Linux, Ethical Hacking",10,MBA,Google ML,Cybersecurity Analyst,Hire,41917,9
+907,Brandon Lucero,"Python, TensorFlow, NLP",6,B.Tech,None,AI Researcher,Hire,56712,5
+908,Joshua Jensen DDS,"Python, Deep Learning, Machine Learning",0,B.Tech,AWS Certified,Data Scientist,Reject,72251,6
+909,Amy Anderson,"Python, TensorFlow",5,B.Tech,Google ML,AI Researcher,Hire,88058,0
+910,Colin Morris,"Networking, Linux, Ethical Hacking",3,MBA,AWS Certified,Cybersecurity Analyst,Hire,102914,6
+911,Erin Hull,"Machine Learning, Deep Learning",6,PhD,AWS Certified,Data Scientist,Hire,117600,0
+912,Ann Long,"NLP, Pytorch, TensorFlow",6,M.Tech,Deep Learning Specialization,AI Researcher,Hire,64149,0
+913,Krystal Cole,"Pytorch, Python, NLP",10,M.Tech,None,AI Researcher,Hire,89696,3
+914,Laura Vasquez,"Deep Learning, SQL, Machine Learning",3,B.Tech,None,Data Scientist,Reject,94832,3
+915,John Holland,"Linux, Networking, Cybersecurity, Ethical Hacking",3,MBA,AWS Certified,Cybersecurity Analyst,Hire,114989,9
+916,Marcus Edwards,"SQL, Python",7,PhD,None,Data Scientist,Hire,72691,1
+917,Amy Carter,"TensorFlow, Python, NLP, Pytorch",0,M.Tech,None,AI Researcher,Reject,113643,4
+918,Michael Jimenez,"Deep Learning, Machine Learning, Python, SQL",5,B.Tech,None,Data Scientist,Hire,92538,1
+919,Shannon Frazier,"Deep Learning, Python",5,MBA,AWS Certified,Data Scientist,Hire,100800,3
+920,Kelly Harrell,"Cybersecurity, Networking, Ethical Hacking",4,MBA,None,Cybersecurity Analyst,Hire,112115,9
+921,Jonathan Myers,"Java, SQL, React, C++",9,B.Sc,Google ML,Software Engineer,Hire,108502,9
+922,Gary Fisher,"Ethical Hacking, Networking",6,PhD,AWS Certified,Cybersecurity Analyst,Hire,66054,2
+923,Michael Padilla,"TensorFlow, Python",7,B.Sc,Deep Learning Specialization,AI Researcher,Hire,98529,1
+924,Kerry Sanders,"Python, Machine Learning, Deep Learning, SQL",1,PhD,Google ML,Data Scientist,Hire,113545,6
+925,Amy Reynolds,"Cybersecurity, Networking, Ethical Hacking",8,PhD,Deep Learning Specialization,Cybersecurity Analyst,Hire,54594,2
+926,Colleen Conner,"C++, React, SQL, Java",5,PhD,Deep Learning Specialization,Software Engineer,Hire,101120,5
+927,John Walker,"Machine Learning, SQL",5,B.Sc,Deep Learning Specialization,Data Scientist,Hire,108012,7
+928,Bianca Montoya,"C++, SQL, Java, React",7,B.Sc,None,Software Engineer,Hire,117476,10
+929,Melinda Lambert,"SQL, C++, Java",1,M.Tech,None,Software Engineer,Reject,48157,5
+930,David Levy,"Pytorch, TensorFlow, NLP, Python",1,M.Tech,None,AI Researcher,Reject,63713,0
+931,Mark Sanford,"Python, Machine Learning",2,B.Sc,Deep Learning Specialization,Data Scientist,Reject,71635,1
+932,Debbie Wong,"Linux, Cybersecurity",9,B.Sc,None,Cybersecurity Analyst,Hire,62823,7
+933,Peter Brown,"SQL, Java, C++",1,M.Tech,Deep Learning Specialization,Software Engineer,Hire,82007,10
+934,Kristina Evans,"Machine Learning, Deep Learning, Python",10,M.Tech,Google ML,Data Scientist,Hire,47998,10
+935,Maria Green,"Python, SQL, Machine Learning",3,PhD,Google ML,Data Scientist,Reject,55365,1
+936,Eddie May,"Machine Learning, SQL",2,MBA,Deep Learning Specialization,Data Scientist,Hire,90929,7
+937,Samuel Arnold,"Ethical Hacking, Linux",9,MBA,AWS Certified,Cybersecurity Analyst,Hire,46896,8
+938,Jacob Morrow,"Pytorch, TensorFlow",5,PhD,AWS Certified,AI Researcher,Hire,43681,4
+939,William Johnston,"SQL, C++, Java, React",3,M.Tech,Google ML,Software Engineer,Reject,44121,0
+940,Amy Lawson,"Networking, Linux, Cybersecurity",1,PhD,Google ML,Cybersecurity Analyst,Hire,48456,8
+941,Donald Cantu,"Linux, Cybersecurity, Networking, Ethical Hacking",6,B.Tech,AWS Certified,Cybersecurity Analyst,Hire,109463,6
+942,Mr. Matthew Brewer,"NLP, TensorFlow, Python",2,MBA,None,AI Researcher,Reject,94281,2
+943,Leslie Conway,"Machine Learning, Deep Learning, SQL, Python",2,PhD,AWS Certified,Data Scientist,Hire,80720,6
+944,Michael Wilson,"Java, React, SQL, C++",3,PhD,None,Software Engineer,Hire,78794,4
+945,Kristin Hernandez,"Ethical Hacking, Cybersecurity, Networking",3,B.Sc,Deep Learning Specialization,Cybersecurity Analyst,Reject,50972,1
+946,Kyle Orozco,"SQL, Java, React",4,PhD,AWS Certified,Software Engineer,Hire,79539,5
+947,Theresa Hansen,"Cybersecurity, Networking, Linux, Ethical Hacking",1,B.Sc,None,Cybersecurity Analyst,Hire,99954,8
+948,Jeffery Hicks,"Python, Deep Learning, Machine Learning, SQL",2,B.Tech,Deep Learning Specialization,Data Scientist,Hire,42356,3
+949,Alan Lewis,"Pytorch, TensorFlow, NLP, Python",10,B.Sc,Google ML,AI Researcher,Hire,50188,3
+950,Elizabeth Fry,"Linux, Ethical Hacking, Networking",5,B.Sc,AWS Certified,Cybersecurity Analyst,Hire,45733,0
+951,Rita Russell,"Deep Learning, Machine Learning",7,M.Tech,AWS Certified,Data Scientist,Hire,87562,9
+952,Joshua Hatfield,"NLP, Pytorch, TensorFlow, Python",0,MBA,Deep Learning Specialization,AI Researcher,Hire,70137,9
+953,Mary Thomas,"SQL, Machine Learning, Python, Deep Learning",6,B.Sc,Deep Learning Specialization,Data Scientist,Hire,53286,5
+954,Jennifer Juarez,"Networking, Cybersecurity, Ethical Hacking, Linux",4,M.Tech,Google ML,Cybersecurity Analyst,Hire,91996,8
+955,Megan Meadows,"SQL, Python, Machine Learning, Deep Learning",7,B.Sc,AWS Certified,Data Scientist,Hire,55431,2
+956,Michael Johnson,"Deep Learning, Python, SQL, Machine Learning",3,B.Sc,AWS Certified,Data Scientist,Hire,113134,5
+957,Sarah Wood MD,"Ethical Hacking, Linux, Networking, Cybersecurity",6,MBA,None,Cybersecurity Analyst,Hire,90173,4
+958,Elizabeth Logan,"Cybersecurity, Networking",7,MBA,None,Cybersecurity Analyst,Hire,109418,6
+959,Jesus Johnson,"C++, SQL, Java",7,B.Sc,None,Software Engineer,Hire,115535,5
+960,Evan Rodriguez,"Machine Learning, SQL, Python",3,M.Tech,Google ML,Data Scientist,Hire,119432,9
+961,Phillip Morris,"SQL, Machine Learning, Python",3,B.Tech,Google ML,Data Scientist,Hire,77352,3
+962,Melanie Oliver,"SQL, Deep Learning, Python",9,B.Sc,Google ML,Data Scientist,Hire,96487,0
+963,Michael Hall,"Python, NLP, Pytorch, TensorFlow",5,B.Sc,Deep Learning Specialization,AI Researcher,Hire,48234,9
+964,Mary Vasquez,"TensorFlow, NLP",6,PhD,AWS Certified,AI Researcher,Hire,64951,8
+965,Jason Jackson,"Cybersecurity, Linux, Ethical Hacking",2,PhD,None,Cybersecurity Analyst,Hire,51721,10
+966,Elizabeth Stevenson,"SQL, Machine Learning, Deep Learning",8,M.Tech,None,Data Scientist,Hire,61880,8
+967,Courtney Black,"Ethical Hacking, Linux, Networking, Cybersecurity",6,MBA,None,Cybersecurity Analyst,Hire,56426,1
+968,Adriana Johnson,"Deep Learning, Python, Machine Learning, SQL",6,B.Sc,AWS Certified,Data Scientist,Hire,50340,0
+969,Ashley Rice,"Pytorch, TensorFlow",0,M.Tech,AWS Certified,AI Researcher,Hire,99429,9
+970,Mark Hughes,"Python, Machine Learning, SQL",9,PhD,Google ML,Data Scientist,Hire,104274,10
+971,Chloe Blake,"C++, React, SQL",0,MBA,None,Software Engineer,Reject,45815,7
+972,Jennifer Morris,"C++, SQL",8,B.Sc,Google ML,Software Engineer,Hire,112514,8
+973,Samuel Bright,"NLP, Python, Pytorch, TensorFlow",3,MBA,AWS Certified,AI Researcher,Hire,68738,6
+974,Christopher Fernandez,"C++, Java, SQL",6,MBA,AWS Certified,Software Engineer,Hire,40595,1
+975,Vanessa Hampton,"TensorFlow, Pytorch, NLP, Python",1,B.Tech,AWS Certified,AI Researcher,Reject,86353,2
+976,Erin Wells,"Cybersecurity, Linux, Ethical Hacking, Networking",7,B.Tech,AWS Certified,Cybersecurity Analyst,Hire,95709,8
+977,Louis Spencer,"Python, NLP",3,B.Sc,None,AI Researcher,Hire,95270,7
+978,Sherry White,"React, C++, SQL, Java",7,M.Tech,Google ML,Software Engineer,Hire,67871,10
+979,Hunter Higgins,"SQL, Deep Learning, Machine Learning",9,B.Sc,Google ML,Data Scientist,Hire,89128,0
+980,Pamela Santos,"TensorFlow, NLP, Python",9,MBA,Google ML,AI Researcher,Hire,57419,7
+981,Juan Le,"Python, SQL, Machine Learning",3,B.Tech,AWS Certified,Data Scientist,Hire,71142,4
+982,Dakota Clark,"NLP, Python",10,PhD,Google ML,AI Researcher,Hire,100218,10
+983,Kristin Ferguson,"SQL, C++, Java",6,MBA,None,Software Engineer,Hire,49261,1
+984,Lisa Williamson,"Pytorch, NLP, Python, TensorFlow",1,M.Tech,Google ML,AI Researcher,Hire,94795,7
+985,Nicholas Wheeler,"SQL, Deep Learning",0,PhD,Deep Learning Specialization,Data Scientist,Reject,118976,8
+986,Sean Jones,"React, SQL, Java",10,B.Sc,Deep Learning Specialization,Software Engineer,Hire,57933,3
+987,Carolyn Little,"SQL, Deep Learning, Machine Learning",1,MBA,None,Data Scientist,Hire,44099,8
+988,Anna Perez,"Pytorch, TensorFlow, NLP",2,M.Tech,Google ML,AI Researcher,Hire,76264,4
+989,Christina Ball,"Python, NLP",5,B.Sc,Google ML,AI Researcher,Hire,54525,8
+990,Tracy Jennings,"Networking, Cybersecurity, Ethical Hacking, Linux",9,MBA,AWS Certified,Cybersecurity Analyst,Hire,45660,9
+991,Jennifer Martinez,"React, C++, Java, SQL",5,M.Tech,Google ML,Software Engineer,Hire,106646,4
+992,Jacob Davis,"Networking, Ethical Hacking, Linux, Cybersecurity",3,PhD,Google ML,Cybersecurity Analyst,Hire,115708,9
+993,Michael Dodson,"React, SQL",10,PhD,Deep Learning Specialization,Software Engineer,Hire,50166,10
+994,Tina Booth,"Cybersecurity, Ethical Hacking, Linux, Networking",1,MBA,Deep Learning Specialization,Cybersecurity Analyst,Reject,60494,0
+995,Brian Hawkins,"React, Java",4,PhD,Google ML,Software Engineer,Hire,51742,6
+996,Brenda Williams,"Cybersecurity, Linux, Ethical Hacking",0,B.Sc,None,Cybersecurity Analyst,Reject,114364,9
+997,Colleen Hicks,"Deep Learning, Machine Learning",0,MBA,Deep Learning Specialization,Data Scientist,Reject,103294,5
+998,Michelle Molina,"TensorFlow, NLP",0,B.Tech,Google ML,AI Researcher,Hire,113855,9
+999,Danielle Horn,"Linux, Networking, Cybersecurity, Ethical Hacking",8,PhD,AWS Certified,Cybersecurity Analyst,Hire,83146,10
+1000,Chad Collins,"SQL, Machine Learning, Python, Deep Learning",7,M.Tech,Deep Learning Specialization,Data Scientist,Hire,119474,3
